@@ -1,81 +1,81 @@
-[Original](http://www.interaction-design.org/encyclopedia/user_experience_and_experience_design.html)
+ï»¿[Original](http://www.interaction-design.org/encyclopedia/user_experience_and_experience_design.html)
 
-# 3. ƒ†[ƒU[ƒGƒNƒXƒyƒŠƒGƒ“ƒX‚ÆƒGƒNƒXƒyƒŠƒGƒ“ƒXƒfƒUƒCƒ“
+# 3. ãƒ¦ãƒ¼ã‚¶ãƒ¼ã‚¨ã‚¯ã‚¹ãƒšãƒªã‚¨ãƒ³ã‚¹ã¨ã‚¨ã‚¯ã‚¹ãƒšãƒªã‚¨ãƒ³ã‚¹ãƒ‡ã‚¶ã‚¤ãƒ³
 
 > I open my eyes. Lush light floods the room, birds chatter. It is only 6:30 o'clock in the morning, but I feel well-rested and alive; time to get up, to brew some coffee. Are you jealous of my morning routine? Were you startled out of your sleep by a merciless alarm clock? Was it dark outside, no birds around, and did you feel groggy and bleary-eyed?
 
-–Ú‚ğŠJ‚¯‚é‚ÆA–L‚©‚ÈŒõ‚ª•”‰®‚É~‚è‚»‚»‚¬A’¹‚½‚¿‚ª‚¨’‚è‚µ‚Ä‚¢‚Ü‚·B‚Ü‚¾’©‚Ì‚U”¼‚¾‚Æ‚¢‚¤‚Ì‚ÉA‚æ‚­‹x‚ñ‚¾Š´‚¶‚ª‚µ‚ÄAŠˆ—Í‚ª–‚¿‚Ä‚¢‚Ü‚·B‹N‚«‚ÄƒR[ƒq[‚ğ“ü‚ê‚éŠÔ‚Å‚·B
-„‚Ì’©‚ÌKŠµ‚ğ‚¤‚ç‚â‚Ü‚µ‚­v‚¢‚Ü‚·‚©H
-‚ ‚È‚½‚Í—eÍ‚È‚¢–ÚŠo‚Ü‚µŒv‚É‚½‚½‚«‹N‚±‚³‚ê‚½‚Ì‚Å‚·‚©H
-ŠO‚ªˆÃ‚­‚ÄA’¹‚½‚¿‚Í‚¢‚È‚­‚ÄA‚­‚ç‚­‚ç‚µ‚ÄA–Ú‚ª‚©‚·‚ñ‚Å‚¢‚½‚Ì‚Å‚·‚©H
+ç›®ã‚’é–‹ã‘ã‚‹ã¨ã€è±Šã‹ãªå…‰ãŒéƒ¨å±‹ã«é™ã‚Šãããã€é³¥ãŸã¡ãŒãŠå–‹ã‚Šã—ã¦ã„ã¾ã™ã€‚ã¾ã æœã®ï¼–æ™‚åŠã ã¨ã„ã†ã®ã«ã€ã‚ˆãä¼‘ã‚“ã æ„Ÿã˜ãŒã—ã¦ã€æ´»åŠ›ãŒæº€ã¡ã¦ã„ã¾ã™ã€‚èµ·ãã¦ã‚³ãƒ¼ãƒ’ãƒ¼ã‚’å…¥ã‚Œã‚‹æ™‚é–“ã§ã™ã€‚
+ç§ã®æœã®ç¿’æ…£ã‚’ã†ã‚‰ã‚„ã¾ã—ãæ€ã„ã¾ã™ã‹ï¼Ÿ
+ã‚ãªãŸã¯å®¹èµ¦ãªã„ç›®è¦šã¾ã—æ™‚è¨ˆã«ãŸãŸãèµ·ã“ã•ã‚ŒãŸã®ã§ã™ã‹ï¼Ÿ
+å¤–ãŒæš—ãã¦ã€é³¥ãŸã¡ã¯ã„ãªãã¦ã€ãã‚‰ãã‚‰ã—ã¦ã€ç›®ãŒã‹ã™ã‚“ã§ã„ãŸã®ã§ã™ã‹ï¼Ÿ
 
 > This chapter is about experiences created and shaped through technology (aka User Experience) and how to deliberately design those. The wake-up experience created by an alarm clock substantially differs from the experience created by sunrise and happy birds. The question is whether we can create technology which understands the crucial features of sunrise and birds and which succeeds in delivering a similar experience, even when the sun refuses to shine and the birds have already left for Africa.
 
-‚±‚ÌÍ‚Å‚ÍA‹Zp‚É‚æ‚Á‚ÄŒ`ì‚ç‚ê‚éƒGƒNƒXƒyƒŠƒGƒ“ƒXiƒ†[ƒU[ƒGƒNƒXƒyƒŠƒGƒ“ƒXj‚ÆA‚»‚ê‚ç‚ğv—¶[‚­ƒfƒUƒCƒ“‚·‚é•û–@‚ğˆµ‚¢‚Ü‚·B
-–ÚŠo‚Ü‚µŒv‚Å‹N‚«‚éƒGƒNƒXƒyƒŠƒGƒ“ƒX‚ÍA“ú‚Ìo‚ÆK‚¹‚È’¹‚½‚¿‚É‹N‚±‚³‚ê‚é‚Ì‚Æ‚Í‘S‚­ˆÙ‚È‚è‚Ü‚·B
-–â‘è‚ÍA„‚½‚¿‚ª“ú‚Ìo‚Æ’¹‚½‚¿‚ÌŒˆ’è“I‚È“Á’¥‚ğ—‰ğ‚µA‘¾—z‚ª‹P‚©‚È‚­‚Ä‚àA’¹‚½‚¿‚ªƒAƒtƒŠƒJ‚És‚Á‚Ä‚µ‚Ü‚Á‚Ä‚à“¯‚¶‚æ‚¤‚ÈƒGƒNƒXƒyƒŠƒGƒ“ƒX‚ğ’ñ‹Ÿ‚Å‚«‚é‚Ì‚©‚Æ‚¢‚¤‚±‚Æ‚Å‚·B
+ã“ã®ç« ã§ã¯ã€æŠ€è¡“ã«ã‚ˆã£ã¦å½¢ä½œã‚‰ã‚Œã‚‹ã‚¨ã‚¯ã‚¹ãƒšãƒªã‚¨ãƒ³ã‚¹ï¼ˆãƒ¦ãƒ¼ã‚¶ãƒ¼ã‚¨ã‚¯ã‚¹ãƒšãƒªã‚¨ãƒ³ã‚¹ï¼‰ã¨ã€ãã‚Œã‚‰ã‚’æ€æ…®æ·±ããƒ‡ã‚¶ã‚¤ãƒ³ã™ã‚‹æ–¹æ³•ã‚’æ‰±ã„ã¾ã™ã€‚
+ç›®è¦šã¾ã—æ™‚è¨ˆã§èµ·ãã‚‹ã‚¨ã‚¯ã‚¹ãƒšãƒªã‚¨ãƒ³ã‚¹ã¯ã€æ—¥ã®å‡ºã¨å¹¸ã›ãªé³¥ãŸã¡ã«èµ·ã“ã•ã‚Œã‚‹ã®ã¨ã¯å…¨ãç•°ãªã‚Šã¾ã™ã€‚
+å•é¡Œã¯ã€ç§ãŸã¡ãŒæ—¥ã®å‡ºã¨é³¥ãŸã¡ã®æ±ºå®šçš„ãªç‰¹å¾´ã‚’ç†è§£ã—ã€å¤ªé™½ãŒè¼ã‹ãªãã¦ã‚‚ã€é³¥ãŸã¡ãŒã‚¢ãƒ•ãƒªã‚«ã«è¡Œã£ã¦ã—ã¾ã£ã¦ã‚‚åŒã˜ã‚ˆã†ãªã‚¨ã‚¯ã‚¹ãƒšãƒªã‚¨ãƒ³ã‚¹ã‚’æä¾›ã§ãã‚‹ã®ã‹ã¨ã„ã†ã“ã¨ã§ã™ã€‚
 
 > In fact, the experience I described in the beginning was not created by sun and birds, but by Philips' Wake-Up Light. This is a crossing of an alarm clock and a bedside lamp. Half an hour before the set alarm, the lamp starts to brighten gradually, simulating sunrise. It reaches its maximum at the set wake-up time and then the electronic birds kick in to make sure that you really get up. Admittedly, it is a surrogate experience, but so are love stories and travel novels. It is artificial, but not vulgar. And more importantly, it substantially changes the way one wakes up. It changes the experience. The object itself, its form, is rather unremarkable (see Figure 3.1).
 
-À‚ÍA–`“ª‚Åq‚×‚½ƒGƒNƒXƒyƒŠƒGƒ“ƒX‚ÍA‘¾—z‚Æ’¹‚½‚¿‚É‚æ‚Á‚Ä‚Å‚Í‚È‚­AƒtƒBƒŠƒbƒvƒX‚ÌƒEƒFƒCƒNƒAƒbƒvEƒ‰ƒCƒg‚É‚æ‚Á‚Äì‚ç‚ê‚Ü‚µ‚½B
-‚±‚ê‚Í–ÚŠo‚Ü‚µŒv‚ÆƒxƒbƒhƒTƒCƒh‚Ìƒ‰ƒ“ƒv‚ğŠ|‚¯‡‚í‚¹‚½‚à‚Ì‚Å‚·B
-–ÚŠo‚Ü‚µŒv‚ªƒZƒbƒg‚³‚ê‚½‚Ì‚R‚O•ª‘O‚ÉAƒ‰ƒ“ƒv‚ª­‚µ‚¸‚Â–¾‚é‚­‚È‚èn‚ßA“ú‚Ìo‚ğƒVƒ~ƒ…ƒŒ[ƒg‚µ‚Ü‚·B
-ƒZƒbƒg‚³‚ê‚½‚É‹P‚«‚ªÅ‘å‚É‚È‚èA‚ ‚È‚½‚ğŠmÀ‚É‹N‚±‚·‚½‚ßA“d‹CdŠ|‚¯‚Ì’¹‚½‚¿‚ª–Â‚«n‚ß‚Ü‚·B
-‚¦‚¦A‚±‚ê‚Í‘ã‘Ö“I‚ÈƒGƒNƒXƒyƒŠƒGƒ“ƒX‚Å‚·‚ªAƒ‰ƒuƒXƒg[ƒŠ[‚¾‚Á‚Ä—·s¬à‚¾‚Á‚Ä‚»‚¤‚Å‚·BlH“I‚Å‚·‚ªAˆ«‚­‚ ‚è‚Ü‚¹‚ñB
-‚»‚ê‚ÉAlŠÔ‚Ì‹N‚«•û‚ğ‘å‚«‚­•Ï‚¦‚Ü‚·BƒGƒNƒXƒyƒŠƒGƒ“ƒX‚ğ•Ï‚¦‚é‚Ì‚Å‚·B
-ƒ‚ƒm©‘Ì‚â‚»‚ÌŒ`‚Í“Á•M‚·‚×‚«‚à‚Ì‚Å‚Í‚ ‚è‚Ü‚¹‚ñBiFigure 3.1QÆj
+å®Ÿã¯ã€å†’é ­ã§è¿°ã¹ãŸã‚¨ã‚¯ã‚¹ãƒšãƒªã‚¨ãƒ³ã‚¹ã¯ã€å¤ªé™½ã¨é³¥ãŸã¡ã«ã‚ˆã£ã¦ã§ã¯ãªãã€ãƒ•ã‚£ãƒªãƒƒãƒ—ã‚¹ã®ã‚¦ã‚§ã‚¤ã‚¯ã‚¢ãƒƒãƒ—ãƒ»ãƒ©ã‚¤ãƒˆã«ã‚ˆã£ã¦ä½œã‚‰ã‚Œã¾ã—ãŸã€‚
+ã“ã‚Œã¯ç›®è¦šã¾ã—æ™‚è¨ˆã¨ãƒ™ãƒƒãƒ‰ã‚µã‚¤ãƒ‰ã®ãƒ©ãƒ³ãƒ—ã‚’æ›ã‘åˆã‚ã›ãŸã‚‚ã®ã§ã™ã€‚
+ç›®è¦šã¾ã—æ™‚è¨ˆãŒã‚»ãƒƒãƒˆã•ã‚ŒãŸæ™‚åˆ»ã®ï¼“ï¼åˆ†å‰ã«ã€ãƒ©ãƒ³ãƒ—ãŒå°‘ã—ãšã¤æ˜ã‚‹ããªã‚Šå§‹ã‚ã€æ—¥ã®å‡ºã‚’ã‚·ãƒŸãƒ¥ãƒ¬ãƒ¼ãƒˆã—ã¾ã™ã€‚
+ã‚»ãƒƒãƒˆã•ã‚ŒãŸæ™‚åˆ»ã«è¼ããŒæœ€å¤§ã«ãªã‚Šã€ã‚ãªãŸã‚’ç¢ºå®Ÿã«èµ·ã“ã™ãŸã‚ã€é›»æ°—ä»•æ›ã‘ã®é³¥ãŸã¡ãŒé³´ãå§‹ã‚ã¾ã™ã€‚
+ãˆãˆã€ã“ã‚Œã¯ä»£æ›¿çš„ãªã‚¨ã‚¯ã‚¹ãƒšãƒªã‚¨ãƒ³ã‚¹ã§ã™ãŒã€ãƒ©ãƒ–ã‚¹ãƒˆãƒ¼ãƒªãƒ¼ã ã£ã¦æ—…è¡Œå°èª¬ã ã£ã¦ãã†ã§ã™ã€‚äººå·¥çš„ã§ã™ãŒã€æ‚ªãã‚ã‚Šã¾ã›ã‚“ã€‚
+ãã‚Œã«ã€äººé–“ã®èµ·ãæ–¹ã‚’å¤§ããå¤‰ãˆã¾ã™ã€‚ã‚¨ã‚¯ã‚¹ãƒšãƒªã‚¨ãƒ³ã‚¹ã‚’å¤‰ãˆã‚‹ã®ã§ã™ã€‚
+ãƒ¢ãƒè‡ªä½“ã‚„ãã®å½¢ã¯ç‰¹ç­†ã™ã¹ãã‚‚ã®ã§ã¯ã‚ã‚Šã¾ã›ã‚“ã€‚ï¼ˆFigure 3.1å‚ç…§ï¼‰
 
 ![Philips' Wake-Up Light.](http://www.interaction-design.org/images/encyclopedia/user_experience_and_experience_design/philips_experience_design_technology_illustrationSmaller.jpg)
 
-Figure 3.1: ƒtƒBƒŠƒbƒvƒX‚ÌƒEƒFƒCƒNƒAƒbƒvEƒ‰ƒCƒg
+Figure 3.1: ãƒ•ã‚£ãƒªãƒƒãƒ—ã‚¹ã®ã‚¦ã‚§ã‚¤ã‚¯ã‚¢ãƒƒãƒ—ãƒ»ãƒ©ã‚¤ãƒˆ
 
 > The Philips Wake-Up Light has nevertheless the power to "transcend its encasing" because its contribution is not one to the aesthetics of things, but to the aesthetics of experiences. This is the challenge designers and vendors of interactive products face: Experience or User Experience is not about good industrial design, multi-touch, or fancy interfaces. It is about transcending the material. It is about creating an experience through a device.
 
-‚»‚ê‚Å‚àAƒtƒBƒŠƒbƒvƒX‚ÌƒEƒFƒCƒNƒAƒbƒvEƒ‰ƒCƒg‚Íƒ‚ƒm‚Å‚Í‚È‚­ƒGƒNƒXƒyƒŠƒGƒ“ƒX‚Ì”üŠw‚ÉŠñ—^‚·‚é‚Ì‚ÅAuƒnƒR‚ğ’´‰z‚·‚év—Í‚ğ‚Á‚Ä‚¢‚Ü‚·B
-‚±‚ê‚ÍƒCƒ“ƒ^ƒ‰ƒNƒeƒBƒu‚È»•i‚ÌƒfƒUƒCƒi[‚Æƒxƒ“ƒ_[‚ª’¼–Ê‚·‚éƒ`ƒƒƒŒƒ“ƒW‚Å‚·BƒGƒNƒXƒyƒŠƒGƒ“ƒX‚Ü‚½‚Íƒ†[ƒU[ƒGƒNƒXƒyƒŠƒGƒ“ƒX‚Æ‚¢‚¤‚Ì‚ÍA—Ç‚¢H‹ÆƒfƒUƒCƒ“‚Æ‚©Aƒ}ƒ‹ƒ`ƒ^ƒbƒ`‚Æ‚©A‚«‚ê‚¢‚ÈƒCƒ“ƒ^[ƒtƒF[ƒX‚Ì‚±‚Æ‚Å‚Í‚ ‚è‚Ü‚¹‚ñBƒ‚ƒm‚ğ’´‰z‚·‚é‚±‚Æ‚È‚Ì‚Å‚·BƒfƒoƒCƒX‚ğ’Ê‚¶‚ÄƒGƒNƒXƒyƒŠƒGƒ“ƒX‚ğ‘n‘¢‚·‚é‚±‚Æ‚È‚Ì‚Å‚·B
+ãã‚Œã§ã‚‚ã€ãƒ•ã‚£ãƒªãƒƒãƒ—ã‚¹ã®ã‚¦ã‚§ã‚¤ã‚¯ã‚¢ãƒƒãƒ—ãƒ»ãƒ©ã‚¤ãƒˆã¯ãƒ¢ãƒã§ã¯ãªãã‚¨ã‚¯ã‚¹ãƒšãƒªã‚¨ãƒ³ã‚¹ã®ç¾å­¦ã«å¯„ä¸ã™ã‚‹ã®ã§ã€ã€Œãƒã‚³ã‚’è¶…è¶Šã™ã‚‹ã€åŠ›ã‚’æŒã£ã¦ã„ã¾ã™ã€‚
+ã“ã‚Œã¯ã‚¤ãƒ³ã‚¿ãƒ©ã‚¯ãƒ†ã‚£ãƒ–ãªè£½å“ã®ãƒ‡ã‚¶ã‚¤ãƒŠãƒ¼ã¨ãƒ™ãƒ³ãƒ€ãƒ¼ãŒç›´é¢ã™ã‚‹ãƒãƒ£ãƒ¬ãƒ³ã‚¸ã§ã™ã€‚ã‚¨ã‚¯ã‚¹ãƒšãƒªã‚¨ãƒ³ã‚¹ã¾ãŸã¯ãƒ¦ãƒ¼ã‚¶ãƒ¼ã‚¨ã‚¯ã‚¹ãƒšãƒªã‚¨ãƒ³ã‚¹ã¨ã„ã†ã®ã¯ã€è‰¯ã„å·¥æ¥­ãƒ‡ã‚¶ã‚¤ãƒ³ã¨ã‹ã€ãƒãƒ«ãƒã‚¿ãƒƒãƒã¨ã‹ã€ãã‚Œã„ãªã‚¤ãƒ³ã‚¿ãƒ¼ãƒ•ã‚§ãƒ¼ã‚¹ã®ã“ã¨ã§ã¯ã‚ã‚Šã¾ã›ã‚“ã€‚ãƒ¢ãƒã‚’è¶…è¶Šã™ã‚‹ã“ã¨ãªã®ã§ã™ã€‚ãƒ‡ãƒã‚¤ã‚¹ã‚’é€šã˜ã¦ã‚¨ã‚¯ã‚¹ãƒšãƒªã‚¨ãƒ³ã‚¹ã‚’å‰µé€ ã™ã‚‹ã“ã¨ãªã®ã§ã™ã€‚
 
 > I will start this chapter with a discussion of our Western societies' shift from the material to the experiential and the potential problems technology-oriented businesses have in accommodating this shift. User Experience and Experience Design can be a remedy to this by bringing experience to the fore. I then discuss Experience and User Experience to flesh out a view which has the potential to advance the way we will design future technologies. I end with some examples of Experience Design and finally offer a simple model of Why, What and How as a starting point for the enthusiastic Experience Designer.
 
-‚±‚ÌÍ‚ÍA¼—mĞ‰ï‚É‚¨‚¯‚éƒ‚ƒm‚©‚çƒGƒNƒXƒyƒŠƒGƒ“ƒX‚Ö‚ÌƒVƒtƒg‚É‚Â‚¢‚Ä‚Ì‹c˜_‚ÆA‹ZpuŒü‚ÌŠé‹Æ‚ª‚±‚ÌƒVƒtƒg‚É“K‰‚·‚é‚É‚ ‚½‚Á‚Ä‚Ìöİ“I‚È–â‘è‚©‚çn‚Ü‚è‚Ü‚·B
-ƒ†[ƒU[ƒGƒNƒXƒyƒŠƒGƒ“ƒX‚ÆƒGƒNƒXƒyƒŠƒGƒ“ƒXƒfƒUƒCƒ“‚ÍAƒGƒNƒXƒyƒŠƒGƒ“ƒX‚ğ‘O–Ê‚Éo‚·‚±‚Æ‚É‚æ‚Á‚ÄA‚±‚Ì–â‘è‚Ö‚Ìˆ•ûâ³‚É‚È‚é‚©‚à‚µ‚ê‚Ü‚¹‚ñB
-Ÿ‚ÉAƒGƒNƒXƒyƒŠƒGƒ“ƒX‚Æƒ†[ƒU[ƒGƒNƒXƒyƒŠƒGƒ“ƒX‚É‚Â‚¢‚Ä‹c˜_‚µA„‚½‚¿‚ª–¢—ˆ‚Ì‹Zp‚ğƒfƒUƒCƒ“‚·‚é•û–@‚ği•à‚³‚¹‚é‚©‚à‚µ‚ê‚È‚¢‹“_‚ğ“÷•t‚¯‚µ‚Ü‚·B
-I‚í‚è‚ÉAƒGƒNƒXƒyƒŠƒGƒ“ƒXƒfƒUƒCƒ“‚Ì—á‚ğ‚¢‚­‚Â‚©o‚µA”MS‚ÈƒGƒNƒXƒyƒŠƒGƒ“ƒXƒfƒUƒCƒi[‚ÌƒXƒ^[ƒg’n“_‚Æ‚µ‚ÄA‚È‚ºA‰½‚ğA‚Ç‚Ì‚æ‚¤‚É‚·‚é‚©‚ÌŠÈ’P‚Èƒ‚ƒfƒ‹‚ğ’ñ¦‚µ‚Ü‚·B
+ã“ã®ç« ã¯ã€è¥¿æ´‹ç¤¾ä¼šã«ãŠã‘ã‚‹ãƒ¢ãƒã‹ã‚‰ã‚¨ã‚¯ã‚¹ãƒšãƒªã‚¨ãƒ³ã‚¹ã¸ã®ã‚·ãƒ•ãƒˆã«ã¤ã„ã¦ã®è­°è«–ã¨ã€æŠ€è¡“å¿—å‘ã®ä¼æ¥­ãŒã“ã®ã‚·ãƒ•ãƒˆã«é©å¿œã™ã‚‹ã«ã‚ãŸã£ã¦ã®æ½œåœ¨çš„ãªå•é¡Œã‹ã‚‰å§‹ã¾ã‚Šã¾ã™ã€‚
+ãƒ¦ãƒ¼ã‚¶ãƒ¼ã‚¨ã‚¯ã‚¹ãƒšãƒªã‚¨ãƒ³ã‚¹ã¨ã‚¨ã‚¯ã‚¹ãƒšãƒªã‚¨ãƒ³ã‚¹ãƒ‡ã‚¶ã‚¤ãƒ³ã¯ã€ã‚¨ã‚¯ã‚¹ãƒšãƒªã‚¨ãƒ³ã‚¹ã‚’å‰é¢ã«å‡ºã™ã“ã¨ã«ã‚ˆã£ã¦ã€ã“ã®å•é¡Œã¸ã®å‡¦æ–¹ç®‹ã«ãªã‚‹ã‹ã‚‚ã—ã‚Œã¾ã›ã‚“ã€‚
+æ¬¡ã«ã€ã‚¨ã‚¯ã‚¹ãƒšãƒªã‚¨ãƒ³ã‚¹ã¨ãƒ¦ãƒ¼ã‚¶ãƒ¼ã‚¨ã‚¯ã‚¹ãƒšãƒªã‚¨ãƒ³ã‚¹ã«ã¤ã„ã¦è­°è«–ã—ã€ç§ãŸã¡ãŒæœªæ¥ã®æŠ€è¡“ã‚’ãƒ‡ã‚¶ã‚¤ãƒ³ã™ã‚‹æ–¹æ³•ã‚’é€²æ­©ã•ã›ã‚‹ã‹ã‚‚ã—ã‚Œãªã„è¦–ç‚¹ã‚’è‚‰ä»˜ã‘ã—ã¾ã™ã€‚
+çµ‚ã‚ã‚Šã«ã€ã‚¨ã‚¯ã‚¹ãƒšãƒªã‚¨ãƒ³ã‚¹ãƒ‡ã‚¶ã‚¤ãƒ³ã®ä¾‹ã‚’ã„ãã¤ã‹å‡ºã—ã€ç†±å¿ƒãªã‚¨ã‚¯ã‚¹ãƒšãƒªã‚¨ãƒ³ã‚¹ãƒ‡ã‚¶ã‚¤ãƒŠãƒ¼ã®ã‚¹ã‚¿ãƒ¼ãƒˆåœ°ç‚¹ã¨ã—ã¦ã€ãªãœã€ä½•ã‚’ã€ã©ã®ã‚ˆã†ã«ã™ã‚‹ã‹ã®ç°¡å˜ãªãƒ¢ãƒ‡ãƒ«ã‚’æç¤ºã—ã¾ã™ã€‚
 
-## 3.1 ƒ‚ƒm‚©‚çƒGƒNƒXƒyƒŠƒGƒ“ƒX‚Ö
+## 3.1 ãƒ¢ãƒã‹ã‚‰ã‚¨ã‚¯ã‚¹ãƒšãƒªã‚¨ãƒ³ã‚¹ã¸
 
 > In Roald Dahl's Charlie and the Chocolate Factory, young Charlie faces a tough choice. He just found the last Golden Ticket in a bar of Whipple-Scrumptious Fudgemallow Delight. (Figure 3.2). It is one of only five invitations to visit Willy Wonka's legendary chocolate factory. Charlie is promised a day full of "mystic and marvellous surprises that will entrance, delight, intrigue, astonish, and perplex beyond measure. In your wildest dreams you could not imagine that such things happen to you!"
 
-ƒƒAƒ‹ƒhEƒ_[ƒ‹‚Ìwƒ`ƒƒ[ƒŠ[‚Æƒ`ƒ‡ƒRƒŒ[ƒgHêx‚Å‚ÍA—c‚¢ƒ`ƒƒ[ƒŠ[‚ª“ï‚µ‚¢‘I‘ğ‚É’¼–Ê‚µ‚Ü‚·B
-”Ş‚Í Whipple-Scrumptious Fudgemallow Delight ‚Ìƒo[‚ÅÅŒã‚Ì‹à‚Ìƒ`ƒPƒbƒg‚ğŒ©‚Â‚¯‚Ü‚µ‚½BiFigure 3.2j
-ƒEƒBƒŠ[EƒEƒHƒ“ƒJ‚Ì“`à‚Ìƒ`ƒ‡ƒRƒŒ[ƒgHê‚ğ–K‚ê‚é‚±‚Æ‚ª‚Å‚«‚é‚½‚Á‚½5–‡‚Ìµ‘Òó‚Ì‚¤‚¿‚Ì1–‡‚Å‚·B
-ƒ`ƒƒ[ƒŠ[‚Íu‚»‚ñ‚È‚±‚Æ‚ª‹N‚±‚é‚Æ‚Í–²‚Å‚à‘z‘œ‚Å‚«‚È‚¢AŠì‚ÑA‹»–¡A‹Á‚«A¬—‚ğ—^‚¦‚é‚æ‚¤‚ÈA•sv‹c‚Å‚·‚Î‚ç‚µ‚¢ƒTƒvƒ‰ƒCƒYv‚É–‚¿‚½ˆê“ú‚ğ–ñ‘©‚³‚ê‚Ü‚·B
+ãƒ­ã‚¢ãƒ«ãƒ‰ãƒ»ãƒ€ãƒ¼ãƒ«ã®ã€ãƒãƒ£ãƒ¼ãƒªãƒ¼ã¨ãƒãƒ§ã‚³ãƒ¬ãƒ¼ãƒˆå·¥å ´ã€ã§ã¯ã€å¹¼ã„ãƒãƒ£ãƒ¼ãƒªãƒ¼ãŒé›£ã—ã„é¸æŠã«ç›´é¢ã—ã¾ã™ã€‚
+å½¼ã¯ Whipple-Scrumptious Fudgemallow Delight ã®ãƒãƒ¼ã§æœ€å¾Œã®é‡‘ã®ãƒã‚±ãƒƒãƒˆã‚’è¦‹ã¤ã‘ã¾ã—ãŸã€‚ï¼ˆFigure 3.2ï¼‰
+ã‚¦ã‚£ãƒªãƒ¼ãƒ»ã‚¦ã‚©ãƒ³ã‚«ã®ä¼èª¬ã®ãƒãƒ§ã‚³ãƒ¬ãƒ¼ãƒˆå·¥å ´ã‚’è¨ªã‚Œã‚‹ã“ã¨ãŒã§ãã‚‹ãŸã£ãŸ5æšã®æ‹›å¾…çŠ¶ã®ã†ã¡ã®1æšã§ã™ã€‚
+ãƒãƒ£ãƒ¼ãƒªãƒ¼ã¯ã€Œãã‚“ãªã“ã¨ãŒèµ·ã“ã‚‹ã¨ã¯å¤¢ã§ã‚‚æƒ³åƒã§ããªã„ã€å–œã³ã€èˆˆå‘³ã€é©šãã€æ··ä¹±ã‚’ä¸ãˆã‚‹ã‚ˆã†ãªã€ä¸æ€è­°ã§ã™ã°ã‚‰ã—ã„ã‚µãƒ—ãƒ©ã‚¤ã‚ºã€ã«æº€ã¡ãŸä¸€æ—¥ã‚’ç´„æŸã•ã‚Œã¾ã™ã€‚
 
-[Charlie Bucket discovers his Golden Ticket.](http://www.interaction-design.org/images/encyclopedia/user_experience_and_experience_design/charlie_from_materialiasm_to_the_experiential_illustrationSmaller.jpg)
+![Charlie Bucket discovers his Golden Ticket.](http://www.interaction-design.org/images/encyclopedia/user_experience_and_experience_design/charlie_from_materialiasm_to_the_experiential_illustrationSmaller.jpg)
 
 > But Charlie is poor. It is a freezing winter and the whole family of seven is living on not more than cabbagy meals and the occasional boiled potato. People already offered as much as $500 for the ticket. Wouldn't it be more sensible to forfeit Wonka's frivolous offer and to secure the money? In the end, Charlie took the ticket and was awarded with the most extraordinary experience of his life.
 
-‚µ‚©‚µƒ`ƒƒ[ƒŠ[‚Í•n–R‚Å‚·B“€‚Ä‚Â‚­“~‚ÉA‚Vl‰Æ‘°‚ÍƒLƒƒƒxƒc‚Ì‚æ‚¤‚ÈH–‚ÆAXä¥‚Å‚½ƒWƒƒƒKƒCƒ‚‚ğH‚×‚Ä•é‚ç‚µ‚Ä‚¢‚Ü‚·B
-ƒ`ƒPƒbƒg‚Í‚T‚O‚Oƒhƒ‹‚Å”„‚ê‚Ü‚·BƒEƒHƒ“ƒJ‚Ì‚Ó‚´‚¯‚½µ‘Ò‚ğÌ‚Ä‚Ä‚¨‹à‚ğ“¾‚é‚Ù‚¤‚ª—‚É‚©‚È‚Á‚Ä‚¢‚é‚Ì‚Å‚Í‚È‚¢‚Å‚µ‚å‚¤‚©H
-Œ‹‹ÇAƒ`ƒƒ[ƒŠ[‚Íƒ`ƒPƒbƒg‚ğ‘I‚ÑAl¶‚ÅÅ‚à“Á•Ê‚ÈƒGƒNƒXƒyƒŠƒGƒ“ƒX‚ğ“¾‚Ü‚µ‚½B
+ã—ã‹ã—ãƒãƒ£ãƒ¼ãƒªãƒ¼ã¯è²§ä¹ã§ã™ã€‚å‡ã¦ã¤ãå†¬ã«ã€ï¼—äººå®¶æ—ã¯ã‚­ãƒ£ãƒ™ãƒ„ã®ã‚ˆã†ãªé£Ÿäº‹ã¨ã€æ™‚ã€…èŒ¹ã§ãŸã‚¸ãƒ£ã‚¬ã‚¤ãƒ¢ã‚’é£Ÿã¹ã¦æš®ã‚‰ã—ã¦ã„ã¾ã™ã€‚
+ãƒã‚±ãƒƒãƒˆã¯ï¼•ï¼ï¼ãƒ‰ãƒ«ã§å£²ã‚Œã¾ã™ã€‚ã‚¦ã‚©ãƒ³ã‚«ã®ãµã–ã‘ãŸæ‹›å¾…ã‚’æ¨ã¦ã¦ãŠé‡‘ã‚’å¾—ã‚‹ã»ã†ãŒç†ã«ã‹ãªã£ã¦ã„ã‚‹ã®ã§ã¯ãªã„ã§ã—ã‚‡ã†ã‹ï¼Ÿ
+çµå±€ã€ãƒãƒ£ãƒ¼ãƒªãƒ¼ã¯ãƒã‚±ãƒƒãƒˆã‚’é¸ã³ã€äººç”Ÿã§æœ€ã‚‚ç‰¹åˆ¥ãªã‚¨ã‚¯ã‚¹ãƒšãƒªã‚¨ãƒ³ã‚¹ã‚’å¾—ã¾ã—ãŸã€‚
 
 > Charlie chose the experience over the material. He could have had a winter coat or fire wood instead of the experience, but he already knew that only the visit to the chocolate factory has the power to add some meaning to his life. In fact, studies show that experiential purchases (i.e., the acquisition of an event to live through, such as a concert, a dinner, a journey) make people more happy than material purchases (i.e., the acquisition of tangible objects, such as clothing, jewellery, stereo equipment) of the same value (Boven & Gilovich 2003; Carter & Gilovich 2010).
 
-ƒ`ƒƒ[ƒŠ[‚Íƒ‚ƒm‚æ‚è‚àƒGƒNƒXƒyƒŠƒGƒ“ƒX‚ğ‘I‚ñ‚¾‚Ì‚Å‚·B
-”Ş‚Í“~•¨‚ÌƒR[ƒg‚âd‚ğ‘ã‚í‚è‚É“¾‚é‚±‚Æ‚à‚Å‚«‚Ü‚µ‚½‚ªAƒ`ƒ‡ƒRƒŒ[ƒgHê‚ğ–K‚ê‚é‚±‚Æ‚¾‚¯‚ª”Ş‚Ìl¶‚ÉˆÓ–¡‚ğ—^‚¦‚ç‚ê‚é‚±‚Æ‚ğ’m‚Á‚Ä‚¢‚Ü‚µ‚½B
-ÀÛAl‚Íƒ‚ƒm‚ğ”ƒ‚¤‚±‚ÆiÀ‘Ì‚Ì‚ ‚é‚à‚ÌA‚·‚È‚í‚¿•‚â•óÎ‚âƒXƒeƒŒƒI‚ğ“¾‚é‚±‚Æj‚æ‚è‚à“¯‚¶‰¿Ši‚ÌƒGƒNƒXƒyƒŠƒGƒ“ƒX‚ğ”ƒ‚¤‚±‚ÆiƒCƒxƒ“ƒg‚É‚¨‹à‚ğo‚·‚±‚ÆA‚½‚Æ‚¦‚ÎƒRƒ“ƒT[ƒgAƒfƒBƒi[A—·sj‚É‚æ‚Á‚Ä‚æ‚èK•ŸŠ´‚ª‚‚Ü‚é‚±‚Æ‚ªŒ¤‹†‚É‚æ‚è•ª‚©‚Á‚Ä‚¢‚Ü‚·B
+ãƒãƒ£ãƒ¼ãƒªãƒ¼ã¯ãƒ¢ãƒã‚ˆã‚Šã‚‚ã‚¨ã‚¯ã‚¹ãƒšãƒªã‚¨ãƒ³ã‚¹ã‚’é¸ã‚“ã ã®ã§ã™ã€‚
+å½¼ã¯å†¬ç‰©ã®ã‚³ãƒ¼ãƒˆã‚„è–ªã‚’ä»£ã‚ã‚Šã«å¾—ã‚‹ã“ã¨ã‚‚ã§ãã¾ã—ãŸãŒã€ãƒãƒ§ã‚³ãƒ¬ãƒ¼ãƒˆå·¥å ´ã‚’è¨ªã‚Œã‚‹ã“ã¨ã ã‘ãŒå½¼ã®äººç”Ÿã«æ„å‘³ã‚’ä¸ãˆã‚‰ã‚Œã‚‹ã“ã¨ã‚’çŸ¥ã£ã¦ã„ã¾ã—ãŸã€‚
+å®Ÿéš›ã€äººã¯ãƒ¢ãƒã‚’è²·ã†ã“ã¨ï¼ˆå®Ÿä½“ã®ã‚ã‚‹ã‚‚ã®ã€ã™ãªã‚ã¡æœã‚„å®çŸ³ã‚„ã‚¹ãƒ†ãƒ¬ã‚ªã‚’å¾—ã‚‹ã“ã¨ï¼‰ã‚ˆã‚Šã‚‚åŒã˜ä¾¡æ ¼ã®ã‚¨ã‚¯ã‚¹ãƒšãƒªã‚¨ãƒ³ã‚¹ã‚’è²·ã†ã“ã¨ï¼ˆã‚¤ãƒ™ãƒ³ãƒˆã«ãŠé‡‘ã‚’å‡ºã™ã“ã¨ã€ãŸã¨ãˆã°ã‚³ãƒ³ã‚µãƒ¼ãƒˆã€ãƒ‡ã‚£ãƒŠãƒ¼ã€æ—…è¡Œï¼‰ã«ã‚ˆã£ã¦ã‚ˆã‚Šå¹¸ç¦æ„ŸãŒé«˜ã¾ã‚‹ã“ã¨ãŒç ”ç©¶ã«ã‚ˆã‚Šåˆ†ã‹ã£ã¦ã„ã¾ã™ã€‚
 
 > In a series of studies, Leaf van Boven and colleagues (2010) further uncovered stigmatizing stereotypes: Participants characterized people with a material orientation as self-centred, insecure, or judgmental, but people with an experiential orientation as humorous, friendly, open-minded, intelligent, caring, or outgoing. The seemingly negative stance towards the materialistic is an indication of a post-materialistic culture. Ronald Inglehart (1997) argued that societies in sustained periods of material wealth become increasingly interested in values such as personal improvement. They transform into highly individual Experience Societies (Schulze 1992; Schulze 2005) whose members equate happiness with the acquisition of positive life events. Decried as superficial and consumerist in the 80ties and 90ties of the last century, we now witness a version of the Experience Society which favours meaningful engagement to earning money and begins to dissociate experience and expenditure. Experiences are no longer supposed to be available at exotic places only. They can be close by: a day out in the sun, working the garden, a barbecue with friends, or a trip to the local flea market. In the foreword to the 2005 edition of his book, Gerhard Schulze (2005, p IX) mentions some signifiers of the new millennium's Experience Society: deceleration instead of acceleration, less instead of more, uniqueness instead of standardisation, concentration instead of diversion, and making instead of consuming. All these are not necessarily associated with material wealth. Admittedly, to develop a post-materialistic (i.e., experiential) orientation may require sufficient food, clothing, and shelter (Inglehart 1997; Maslow 1954). This is the gist of Charlie Bucket's dilemma: choosing a frivolous one-day experience in a chocolate factory over supporting his family with food and clothing seems almost immoral. However, while I agree that an experiential orientation in life requires some food, clothes and shelter as a necessary precondition (Inglehart 1997), I do not believe that it needs caviar, Gucci, and a chateau in the hills of the Cote d'Azur. Most of us in the developed countries have the basis for leading a post-materialistic life.
 
-‚»‚ê‚ç‚ÌŒ¤‹†‚Ì‚¤‚¿ALeaf van Boven ‚ç‚ÍAl‚Éà€ˆó‚ğ‰Ÿ‚·•ÎŒ©‚ğ‚³‚ç‚É–¾‚ç‚©‚É‚µ‚Ü‚µ‚½B
-Q‰ÁÒ‚ÍAƒ‚ƒm‚ğuŒü‚·‚élX‚ğ©ŒÈ’†S“I‚¾‚Æ‚©A©M‚ª‚È‚³‚»‚¤‚Æ‚©A‹³ŒP“I‚¾‚Æ‰„‚×AƒGƒNƒXƒyƒŠƒGƒ“ƒX‚ğuŒü‚·‚élX‚Ì‚±‚Æ‚ÍAƒ†[ƒ‚ƒ‰ƒXA—FD“IAƒI[ƒvƒ“A’m“IA–Ê“|Œ©‚ª‚¢‚¢A‚ ‚é‚¢‚ÍŠOŒü‚«‚¾‚Æq‚×‚Ü‚µ‚½B
-ƒ‚ƒmuŒü‚ÌlX‚É‘Î‚·‚é”Û’è“I‚Èp¨‚ÍAƒ|ƒXƒgEƒ‚ƒm‘ã‚Ì•¶‰»‚ğ¦‚µ‚Ä‚¢‚Ü‚·B
-ƒƒiƒ‹ƒhEƒCƒ“ƒOƒ‹ƒn[ƒg‚ÍA•¨¿“I‚È–L‚©‚³‚ª‘±‚¢‚½Ğ‰ï‚ÍAŒÂl“I‚ÈŒüã‚È‚Ç‚Ì‰¿’l‚É‚æ‚èd‚«‚ğ’u‚­‚æ‚¤‚É‚È‚é‚Æå’£‚µ‚Ü‚µ‚½B
-‚»‚ê‚ç‚ÍA\¬ˆõ‚ªƒ|ƒWƒeƒBƒu‚Èƒ‰ƒCƒtƒCƒxƒ“ƒg‚ğ“¾‚é‚±‚Æ‚É‚æ‚éK•ŸŠ´‚ğ•½€‰»‚·‚éA‚“x‚ÉŒÂl‰»‚³‚ê‚½uƒGƒNƒXƒyƒŠƒGƒ“ƒXĞ‰ïv‚É•Ï‰»‚·‚é‚Ì‚Å‚·B
-80”N‘ã‚â90”N‘ã‚É‚Í•\–Ê“I‚ÅÁ”ïÒå‹`“I‚¾‚Æ”ñ“ï‚³‚ê‚Ü‚µ‚½‚ªA¡‚Å‚Í‰äX‚ÍA‚¨‹à‚ğ‰Ò‚®‚±‚Æ‚æ‚è‚àˆÓ–¡‚Ì‚ ‚éŠˆ“®‚Ö‚ÌQ‰Á‚ªD‚Ü‚êAƒGƒNƒXƒyƒŠƒGƒ“ƒX‚Æxo‚ÌŠÖ˜A‚ªæ‚èœ‚©‚ên‚ß‚éAˆêí‚ÌƒGƒNƒXƒyƒŠƒGƒ“ƒXĞ‰ï‚É¶‚«‚Ä‚¢‚Ü‚·B
-¡‚âƒGƒNƒXƒyƒŠƒGƒ“ƒX‚ÍAƒGƒLƒ]ƒ`ƒbƒN‚ÈêŠ‚Å‚µ‚©“¾‚ç‚ê‚È‚¢‚à‚Ì‚Å‚Í‚ ‚è‚Ü‚¹‚ñBŠO‚Å‘¾—z‚É“–‚½‚é‚±‚ÆA’ë‚Å“­‚­‚±‚ÆA—Fl‚½‚¿‚Æ‚Ìƒo[ƒxƒLƒ…[A’nŒ³‚ÌƒtƒŠ[ƒ}[ƒPƒbƒg‚Éo‚©‚¯‚é‚±‚Æ‚È‚ÇA‹ß‚­‚É‚à‚ ‚è‚Ü‚·B
-‚±‚Ì–{‚Ì2005”N”Å‚Ì‘O‘‚«‚ÅAƒQƒ‹ƒnƒ‹ƒgEƒVƒ…ƒ‹ƒcƒF‚ÍV‚µ‚¢ç”N‹I‚ÌƒGƒNƒXƒyƒŠƒGƒ“ƒXĞ‰ï‚ğÛ’¥‚·‚é‚à‚Ì‚ÉŒ¾‹y‚µ‚Ü‚µ‚½B‰Á‘¬‚Å‚Í‚È‚­Œ¸‘¬A‚æ‚è‘½‚­‚Å‚Í‚È‚­‚æ‚è­‚È‚­A•W€‰»‚æ‚è‚àƒ†ƒj[ƒN‚³A‘½Šp‰»‚Å‚Í‚È‚­W’†AÁ”ï‚·‚é‚±‚Æ‚Å‚Í‚È‚­ì‚é‚±‚ÆB
-‚±‚ê‚ç‚Í•K‚¸‚µ‚à•¨¿“I‚È–L‚©‚³‚Æ‚ÍŠÖ˜A•t‚¯‚ç‚ê‚Ü‚¹‚ñB‚½‚µ‚©‚ÉAƒ|ƒXƒgEƒ‚ƒmuŒü‚ª”­’B‚·‚é‚É‚ÍA\•ª‚ÈH‚×•¨Aˆß•A‚»‚µ‚ÄZ‹‚ª•K—v‚©‚à‚µ‚ê‚Ü‚¹‚ñB
-H‚×•¨‚Æˆß•‚ğ—^‚¦‚Ä‰Æ‘°‚ğ—{‚¤‚±‚Æ‚æ‚è‚àƒ`ƒ‡ƒRƒŒ[ƒgHê‚Å‚Ìˆê“ú‚Ì‚·‚Î‚ç‚µ‚¢ƒGƒNƒXƒyƒŠƒGƒ“ƒX‚ğ‘I‚Ô‚Ì‚Í‚Ù‚Æ‚ñ‚Ç•s“¹“¿‚Å‚ ‚é‚Æ‚¢‚¤‚Ì‚ªAƒ`ƒƒ[ƒŠ[EƒoƒPƒbƒg‚ÌƒWƒŒƒ“ƒ}‚Ì—v|‚Å‚·B
-‚µ‚©‚µAƒGƒNƒXƒyƒŠƒGƒ“ƒXuŒü‚É‚Í\•ª‚ÈH‚×•¨Eˆß•EZ‹‚ª•K—vğŒ‚Å‚ ‚é‚±‚Æ‚É‚Í“¯ˆÓ‚·‚é‚à‚Ì‚ÌAƒLƒƒƒrƒA‚âƒOƒbƒ`‚âƒR[ƒgƒ_ƒWƒ…[ƒ‹‚ÌƒVƒƒƒg[‚ª•K—v‚¾‚Æ‚Í„‚É‚Ív‚¦‚Ü‚¹‚ñBæi‘‚Ì‚Ù‚Æ‚ñ‚Ç‚Ì‘–¯‚ÍAƒ|ƒXƒgEƒ‚ƒm‘ã‚Ì¶Šˆ‚ğ‘—‚éŠî”Õ‚ğ‚Á‚Ä‚¢‚Ü‚·B
+ãã‚Œã‚‰ã®ç ”ç©¶ã®ã†ã¡ã€Leaf van Boven ã‚‰ã¯ã€äººã«çƒ™å°ã‚’æŠ¼ã™åè¦‹ã‚’ã•ã‚‰ã«æ˜ã‚‰ã‹ã«ã—ã¾ã—ãŸã€‚
+å‚åŠ è€…ã¯ã€ãƒ¢ãƒã‚’å¿—å‘ã™ã‚‹äººã€…ã‚’è‡ªå·±ä¸­å¿ƒçš„ã ã¨ã‹ã€è‡ªä¿¡ãŒãªã•ãã†ã¨ã‹ã€æ•™è¨“çš„ã ã¨å»¶ã¹ã€ã‚¨ã‚¯ã‚¹ãƒšãƒªã‚¨ãƒ³ã‚¹ã‚’å¿—å‘ã™ã‚‹äººã€…ã®ã“ã¨ã¯ã€ãƒ¦ãƒ¼ãƒ¢ãƒ©ã‚¹ã€å‹å¥½çš„ã€ã‚ªãƒ¼ãƒ—ãƒ³ã€çŸ¥çš„ã€é¢å€’è¦‹ãŒã„ã„ã€ã‚ã‚‹ã„ã¯å¤–å‘ãã ã¨è¿°ã¹ã¾ã—ãŸã€‚
+ãƒ¢ãƒå¿—å‘ã®äººã€…ã«å¯¾ã™ã‚‹å¦å®šçš„ãªå§¿å‹¢ã¯ã€ãƒã‚¹ãƒˆãƒ»ãƒ¢ãƒæ™‚ä»£ã®æ–‡åŒ–ã‚’ç¤ºã—ã¦ã„ã¾ã™ã€‚
+ãƒ­ãƒŠãƒ«ãƒ‰ãƒ»ã‚¤ãƒ³ã‚°ãƒ«ãƒãƒ¼ãƒˆã¯ã€ç‰©è³ªçš„ãªè±Šã‹ã•ãŒç¶šã„ãŸç¤¾ä¼šã¯ã€å€‹äººçš„ãªå‘ä¸Šãªã©ã®ä¾¡å€¤ã«ã‚ˆã‚Šé‡ãã‚’ç½®ãã‚ˆã†ã«ãªã‚‹ã¨ä¸»å¼µã—ã¾ã—ãŸã€‚
+ãã‚Œã‚‰ã¯ã€æ§‹æˆå“¡ãŒãƒã‚¸ãƒ†ã‚£ãƒ–ãªãƒ©ã‚¤ãƒ•ã‚¤ãƒ™ãƒ³ãƒˆã‚’å¾—ã‚‹ã“ã¨ã«ã‚ˆã‚‹å¹¸ç¦æ„Ÿã‚’å¹³æº–åŒ–ã™ã‚‹ã€é«˜åº¦ã«å€‹äººåŒ–ã•ã‚ŒãŸã€Œã‚¨ã‚¯ã‚¹ãƒšãƒªã‚¨ãƒ³ã‚¹ç¤¾ä¼šã€ã«å¤‰åŒ–ã™ã‚‹ã®ã§ã™ã€‚
+80å¹´ä»£ã‚„90å¹´ä»£ã«ã¯è¡¨é¢çš„ã§æ¶ˆè²»è€…ä¸»ç¾©çš„ã ã¨éé›£ã•ã‚Œã¾ã—ãŸãŒã€ä»Šã§ã¯æˆ‘ã€…ã¯ã€ãŠé‡‘ã‚’ç¨¼ãã“ã¨ã‚ˆã‚Šã‚‚æ„å‘³ã®ã‚ã‚‹æ´»å‹•ã¸ã®å‚åŠ ãŒå¥½ã¾ã‚Œã€ã‚¨ã‚¯ã‚¹ãƒšãƒªã‚¨ãƒ³ã‚¹ã¨æ”¯å‡ºã®é–¢é€£ãŒå–ã‚Šé™¤ã‹ã‚Œå§‹ã‚ã‚‹ã€ä¸€ç¨®ã®ã‚¨ã‚¯ã‚¹ãƒšãƒªã‚¨ãƒ³ã‚¹ç¤¾ä¼šã«ç”Ÿãã¦ã„ã¾ã™ã€‚
+ä»Šã‚„ã‚¨ã‚¯ã‚¹ãƒšãƒªã‚¨ãƒ³ã‚¹ã¯ã€ã‚¨ã‚­ã‚¾ãƒãƒƒã‚¯ãªå ´æ‰€ã§ã—ã‹å¾—ã‚‰ã‚Œãªã„ã‚‚ã®ã§ã¯ã‚ã‚Šã¾ã›ã‚“ã€‚å¤–ã§å¤ªé™½ã«å½“ãŸã‚‹ã“ã¨ã€åº­ã§åƒãã“ã¨ã€å‹äººãŸã¡ã¨ã®ãƒãƒ¼ãƒ™ã‚­ãƒ¥ãƒ¼ã€åœ°å…ƒã®ãƒ•ãƒªãƒ¼ãƒãƒ¼ã‚±ãƒƒãƒˆã«å‡ºã‹ã‘ã‚‹ã“ã¨ãªã©ã€è¿‘ãã«ã‚‚ã‚ã‚Šã¾ã™ã€‚
+ã“ã®æœ¬ã®2005å¹´ç‰ˆã®å‰æ›¸ãã§ã€ã‚²ãƒ«ãƒãƒ«ãƒˆãƒ»ã‚·ãƒ¥ãƒ«ãƒ„ã‚§ã¯æ–°ã—ã„åƒå¹´ç´€ã®ã‚¨ã‚¯ã‚¹ãƒšãƒªã‚¨ãƒ³ã‚¹ç¤¾ä¼šã‚’è±¡å¾´ã™ã‚‹ã‚‚ã®ã«è¨€åŠã—ã¾ã—ãŸã€‚åŠ é€Ÿã§ã¯ãªãæ¸›é€Ÿã€ã‚ˆã‚Šå¤šãã§ã¯ãªãã‚ˆã‚Šå°‘ãªãã€æ¨™æº–åŒ–ã‚ˆã‚Šã‚‚ãƒ¦ãƒ‹ãƒ¼ã‚¯ã•ã€å¤šè§’åŒ–ã§ã¯ãªãé›†ä¸­ã€æ¶ˆè²»ã™ã‚‹ã“ã¨ã§ã¯ãªãä½œã‚‹ã“ã¨ã€‚
+ã“ã‚Œã‚‰ã¯å¿…ãšã—ã‚‚ç‰©è³ªçš„ãªè±Šã‹ã•ã¨ã¯é–¢é€£ä»˜ã‘ã‚‰ã‚Œã¾ã›ã‚“ã€‚ãŸã—ã‹ã«ã€ãƒã‚¹ãƒˆãƒ»ãƒ¢ãƒå¿—å‘ãŒç™ºé”ã™ã‚‹ã«ã¯ã€ååˆ†ãªé£Ÿã¹ç‰©ã€è¡£æœã€ãã—ã¦ä½å±…ãŒå¿…è¦ã‹ã‚‚ã—ã‚Œã¾ã›ã‚“ã€‚
+é£Ÿã¹ç‰©ã¨è¡£æœã‚’ä¸ãˆã¦å®¶æ—ã‚’é¤Šã†ã“ã¨ã‚ˆã‚Šã‚‚ãƒãƒ§ã‚³ãƒ¬ãƒ¼ãƒˆå·¥å ´ã§ã®ä¸€æ—¥ã®ã™ã°ã‚‰ã—ã„ã‚¨ã‚¯ã‚¹ãƒšãƒªã‚¨ãƒ³ã‚¹ã‚’é¸ã¶ã®ã¯ã»ã¨ã‚“ã©ä¸é“å¾³ã§ã‚ã‚‹ã¨ã„ã†ã®ãŒã€ãƒãƒ£ãƒ¼ãƒªãƒ¼ãƒ»ãƒã‚±ãƒƒãƒˆã®ã‚¸ãƒ¬ãƒ³ãƒã®è¦æ—¨ã§ã™ã€‚
+ã—ã‹ã—ã€ã‚¨ã‚¯ã‚¹ãƒšãƒªã‚¨ãƒ³ã‚¹å¿—å‘ã«ã¯ååˆ†ãªé£Ÿã¹ç‰©ãƒ»è¡£æœãƒ»ä½å±…ãŒå¿…è¦æ¡ä»¶ã§ã‚ã‚‹ã“ã¨ã«ã¯åŒæ„ã™ã‚‹ã‚‚ã®ã®ã€ã‚­ãƒ£ãƒ“ã‚¢ã‚„ã‚°ãƒƒãƒã‚„ã‚³ãƒ¼ãƒˆãƒ€ã‚¸ãƒ¥ãƒ¼ãƒ«ã®ã‚·ãƒ£ãƒˆãƒ¼ãŒå¿…è¦ã ã¨ã¯ç§ã«ã¯æ€ãˆã¾ã›ã‚“ã€‚å…ˆé€²å›½ã®ã»ã¨ã‚“ã©ã®å›½æ°‘ã¯ã€ãƒã‚¹ãƒˆãƒ»ãƒ¢ãƒæ™‚ä»£ã®ç”Ÿæ´»ã‚’é€ã‚‹åŸºç›¤ã‚’æŒã£ã¦ã„ã¾ã™ã€‚
 
 (to be continued...)
