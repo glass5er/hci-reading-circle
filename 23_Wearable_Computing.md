@@ -1,107 +1,107 @@
 [Original](http://www.interaction-design.org/encyclopedia/wearable_computing.html)
 
-# 23. ƒEƒFƒAƒ‰ƒuƒ‹ƒRƒ“ƒsƒ…[ƒeƒBƒ“ƒO
+# 23. ã‚¦ã‚§ã‚¢ãƒ©ãƒ–ãƒ«ã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ãƒ†ã‚£ãƒ³ã‚°
 
 > 23. Wearable Computing
 > Wearable computing is the study or practice of inventing, designing, building, or using miniature body-borne computational and sensory devices. Wearable computers may be worn under, over, or in clothing, or may also be themselves clothes (i.e. "Smart Clothing" (Mann, 1996a)).
 
-ƒEƒFƒAƒ‰ƒuƒ‹ƒRƒ“ƒsƒ…[ƒeƒBƒ“ƒO‚Æ‚¢‚¤‚Ì‚ÍC‘Ì‚Éæ‚è•t‚¯‚é—p‚Ì¬Œ^‚ÌŒvZ‹@ƒfƒoƒCƒX‚âƒZƒ“ƒTƒfƒoƒCƒX‚ğ”­,n,m,–¾‚·‚éCƒfƒUƒCƒ“‚·‚éCì‚éCg‚¤‚Æ‚¢‚Á‚½æ‚è‘g‚İ‚Ì‚±‚Æ‚Å‚·DƒEƒFƒAƒ‰ƒuƒ‹ƒRƒ“ƒsƒ…[ƒ^‚ÍC•‚Ìã‚â‰ºC‚ ‚é‚¢‚Í•‚Ì’†‚Éæ‚è•t‚¯‚ç‚ê‚½‚èC•©‘Ì‚ªƒEƒFƒAƒ‰ƒuƒ‹ƒRƒ“ƒsƒ…[ƒ^‚¾‚Á‚½‚è‚µ‚Ü‚· (‚½‚Æ‚¦‚ÎDD gSmart Clothingh (Mann, 1996a))D
+ã‚¦ã‚§ã‚¢ãƒ©ãƒ–ãƒ«ã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ãƒ†ã‚£ãƒ³ã‚°ã¨ã„ã†ã®ã¯ï¼Œä½“ã«å–ã‚Šä»˜ã‘ã‚‹ç”¨ã®å°å‹ã®è¨ˆç®—æ©Ÿãƒ‡ãƒã‚¤ã‚¹ã‚„ã‚»ãƒ³ã‚µãƒ‡ãƒã‚¤ã‚¹ã‚’ç™º,n,m,æ˜ã™ã‚‹ï¼Œãƒ‡ã‚¶ã‚¤ãƒ³ã™ã‚‹ï¼Œä½œã‚‹ï¼Œä½¿ã†ã¨ã„ã£ãŸå–ã‚Šçµ„ã¿ã®ã“ã¨ã§ã™ï¼ã‚¦ã‚§ã‚¢ãƒ©ãƒ–ãƒ«ã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ã‚¿ã¯ï¼Œæœã®ä¸Šã‚„ä¸‹ï¼Œã‚ã‚‹ã„ã¯æœã®ä¸­ã«å–ã‚Šä»˜ã‘ã‚‰ã‚ŒãŸã‚Šï¼Œæœè‡ªä½“ãŒã‚¦ã‚§ã‚¢ãƒ©ãƒ–ãƒ«ã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ã‚¿ã ã£ãŸã‚Šã—ã¾ã™ (ãŸã¨ãˆã°ï¼ï¼ â€œSmart Clothingâ€ (Mann, 1996a))ï¼
 
-## 23.1 gBearableh(g‚É‚Â‚¯‚ç‚ê‚é à Wearable)ƒRƒ“ƒsƒ…[ƒeƒBƒ“ƒO
+## 23.1 â€œBearableâ€(èº«ã«ã¤ã‘ã‚‰ã‚Œã‚‹ â‰’ Wearable)ã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ãƒ†ã‚£ãƒ³ã‚°
 
 > 23.1 Bearable Computing
 > The field of wearable computing, however, extends beyond "Smart Clothing". The author often uses the term "Body-Borne Computing" or "Bearable Computing" as a substitute for "Wearable Computing" so as to include all manner of technology that is on or in the body, e.g. implantable devices as well as portable devices like smartphones. In fact the word "portable" comes from the French word "porter" which means "to wear".
 
-‚µ‚©‚µCƒEƒFƒAƒ‰ƒuƒ‹ƒRƒ“ƒsƒ…[ƒeƒBƒ“ƒO‚Ì•ª–ì‚ÍCÀÛ‚É‚ÍgSmart Clothingh(‘Oq)‚Ìl‚¦•û‚ğ‚³‚ç‚ÉŠg’£‚µ‚½‘å‚«‚È‚à‚Ì‚Å‚·D’˜Ò(Mann)‚ÍCgBody-Borne Computingh‚âgBearable Computingh‚Æ‚¢‚Á‚½—pŒê‚ğCƒEƒFƒAƒ‰ƒuƒ‹ƒRƒ“ƒsƒ…[ƒeƒBƒ“ƒO‚Ì‘ã‘ÖŒê‚Æ‚µ‚Ä‚æ‚­—p‚¢‚Ä‚¢‚Ü‚·D‚»‚ê‚ÍC‘Ì‚Ì•\–Ê‚Éæ‚è•t‚¯‚½‚è‘Ì“à‚É–„‚ß‚ñ‚¾‚è‚Å‚«‚éƒfƒoƒCƒXC‚³‚ç‚É‚ÍƒXƒ}[ƒgƒtƒHƒ“‚Ì‚æ‚¤‚Èƒ|[ƒ^ƒuƒ‹ƒfƒoƒCƒX‚È‚Ç‚Ì‚·‚×‚Ä‚Ì‹Zp“IƒAƒvƒ[ƒ`‚ğ‚±‚Ì•ª–ì‚ÉŠÜ‚ß‚æ‚¤‚Æ‚µ‚½‚½‚ß‚Å‚·DÀÛCgportableh‚Æ‚¢‚¤’PŒê‚Íƒtƒ‰ƒ“ƒXŒê‚Ìgporterhigwearh=g‚É‚Â‚¯‚éj‚É—R—ˆ‚µ‚Ä‚¢‚Ü‚·D
+ã—ã‹ã—ï¼Œã‚¦ã‚§ã‚¢ãƒ©ãƒ–ãƒ«ã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ãƒ†ã‚£ãƒ³ã‚°ã®åˆ†é‡ã¯ï¼Œå®Ÿéš›ã«ã¯â€œSmart Clothingâ€(å‰è¿°)ã®è€ƒãˆæ–¹ã‚’ã•ã‚‰ã«æ‹¡å¼µã—ãŸå¤§ããªã‚‚ã®ã§ã™ï¼è‘—è€…(Mannæ°)ã¯ï¼Œâ€œBody-Borne Computingâ€ã‚„â€œBearable Computingâ€ã¨ã„ã£ãŸç”¨èªã‚’ï¼Œã‚¦ã‚§ã‚¢ãƒ©ãƒ–ãƒ«ã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ãƒ†ã‚£ãƒ³ã‚°ã®ä»£æ›¿èªã¨ã—ã¦ã‚ˆãç”¨ã„ã¦ã„ã¾ã™ï¼ãã‚Œã¯ï¼Œä½“ã®è¡¨é¢ã«å–ã‚Šä»˜ã‘ãŸã‚Šä½“å†…ã«åŸ‹ã‚è¾¼ã‚“ã ã‚Šã§ãã‚‹ãƒ‡ãƒã‚¤ã‚¹ï¼Œã•ã‚‰ã«ã¯ã‚¹ãƒãƒ¼ãƒˆãƒ•ã‚©ãƒ³ã®ã‚ˆã†ãªãƒãƒ¼ã‚¿ãƒ–ãƒ«ãƒ‡ãƒã‚¤ã‚¹ãªã©ã®ã™ã¹ã¦ã®æŠ€è¡“çš„ã‚¢ãƒ—ãƒ­ãƒ¼ãƒã‚’ã“ã®åˆ†é‡ã«å«ã‚ã‚ˆã†ã¨ã—ãŸãŸã‚ã§ã™ï¼å®Ÿéš›ï¼Œâ€œportableâ€ã¨ã„ã†å˜èªã¯ãƒ•ãƒ©ãƒ³ã‚¹èªã®â€œporterâ€ï¼ˆâ€œwearâ€=èº«ã«ã¤ã‘ã‚‹ï¼‰ã«ç”±æ¥ã—ã¦ã„ã¾ã™ï¼
 
-## 23.2 À—pã‚ÌƒAƒvƒŠƒP[ƒVƒ‡ƒ“
+## 23.2 å®Ÿç”¨ä¸Šã®ã‚¢ãƒ—ãƒªã‚±ãƒ¼ã‚·ãƒ§ãƒ³
 
 > 23.2 Practical Applications
 > Applications of body-borne computing include seeing aids for the blind or visually impaired, as well as memory aids to help persons with special needs. The MindMesh, an EEG (ElectroEncephaloGram) based "thinking cap", for example, allows the user to plug various devices into their brain. A blind person can plug in a camera and use it as an "eye".
 
-Body-Borne(g‚É‚Â‚¯‚é) Computing‚Æ‚¢‚¤‚Ì‚ÍC–Ú‚Ì•s©—R‚ÈlX‚Ì‹Šo•â•‚âCˆê•”‚Ì“Á•Ê‚Èƒj[ƒY‚ğ‚à‚ÂlX‚Ì‹L‰¯•â•‚È‚Ç‚àŠÜ‚İ‚Ü‚·D‚½‚Æ‚¦‚ÎCMindMesh‚Æ‚¢‚¤C”]”gŒv‚ğƒx[ƒX‚É‚µ‚½gl‚¦‚é–Xqh‚ÍCƒ†[ƒU‚ª‚³‚Ü‚´‚Ü‚ÈƒfƒoƒCƒX‚ğ©M‚Ì”]‚Æ‚Â‚È‚®‚±‚Æ‚ğ‰Â”\‚É‚µ‚Ü‚·D–Ú‚ÌŒ©‚¦‚È‚¢l‚ª‚»‚ê‚ğƒJƒƒ‰‚ÆÚ‘±‚·‚é‚±‚Æ‚ÅCƒJƒƒ‰‚ğg–Úh‚Æ‚µ‚Äg‚¤‚±‚Æ‚ª‚Å‚«‚é‚Ì‚Å‚·D
+Body-Borne(èº«ã«ã¤ã‘ã‚‹) Computingã¨ã„ã†ã®ã¯ï¼Œç›®ã®ä¸è‡ªç”±ãªäººã€…ã®è¦–è¦šè£œåŠ©ã‚„ï¼Œä¸€éƒ¨ã®ç‰¹åˆ¥ãªãƒ‹ãƒ¼ã‚ºã‚’ã‚‚ã¤äººã€…ã®è¨˜æ†¶è£œåŠ©ãªã©ã‚‚å«ã¿ã¾ã™ï¼ãŸã¨ãˆã°ï¼ŒMindMeshã¨ã„ã†ï¼Œè„³æ³¢è¨ˆã‚’ãƒ™ãƒ¼ã‚¹ã«ã—ãŸâ€œè€ƒãˆã‚‹å¸½å­â€ã¯ï¼Œãƒ¦ãƒ¼ã‚¶ãŒã•ã¾ã–ã¾ãªãƒ‡ãƒã‚¤ã‚¹ã‚’è‡ªä¿¡ã®è„³ã¨ã¤ãªãã“ã¨ã‚’å¯èƒ½ã«ã—ã¾ã™ï¼ç›®ã®è¦‹ãˆãªã„äººãŒãã‚Œã‚’ã‚«ãƒ¡ãƒ©ã¨æ¥ç¶šã™ã‚‹ã“ã¨ã§ï¼Œã‚«ãƒ¡ãƒ©ã‚’â€œç›®â€ã¨ã—ã¦ä½¿ã†ã“ã¨ãŒã§ãã‚‹ã®ã§ã™ï¼
 
 > Moreover, body-borne computing in the inclusive sense is for everyone, in the form of such applications as wayfinding, and Personal Safety Devices (PSDs). Body-borne computing is already a part of many people's lives, in the form of a smartphone that helps them find their way if they get lost, or helps protect them from danger (e.g. for emergency notification). The next generation of smartphones will be borne by the body in a way that it is always attentive (e.g. that the camera can always "see" one's environment), so that if a person gets lost, the device will help the user "remember" where they are. Additionally, it will function like the "black box" flight recorder on an aircraft, and, in the event of danger, will be able to automatically notify others of the user's physiological state as well as what happened in the environment.
 
-‚³‚ç‚ÉC“¹ˆÄ“à‚â–h”ÆƒfƒoƒCƒX‚È‚Ç‚Ì—p“r‚àŠÜ‚ß‚½•ïŠ‡“I‚ÈˆÓ–¡‚Å‚ÍCBody-Borne Computing‚Í–œlŒü‚¯‚Ì‚à‚Ì‚Å‚·D“¹‚É–À‚Á‚½‚Æ‚«‚ÉƒXƒ}[ƒgƒtƒHƒ“‚ª“¹ˆÄ“à‚ğ‚µ‚Ä‚­‚ê‚½‚èC‚ ‚é‚¢‚Í‹Ù‹}‚É’Ê•ñ‚µ‚ÄŠëŒ¯‚©‚çç‚Á‚Ä‚­‚ê‚½‚è‚Æ‚¢‚Á‚½Œ`‚ÅCBody-Borne Computing‚Í‚·‚Å‚É‘½‚­‚ÌlX‚Ì¶Šˆ‚Ìˆê•”‚Æ‚È‚Á‚Ä‚¢‚Ü‚·DŸ¢‘ã‚ÌƒXƒ}[ƒgƒtƒHƒ“‚ÍCg‚É‚Â‚¯‚Äg‚¤ƒ^ƒCƒv‚Ì‚à‚Á‚Æ‹C‚Ì—˜‚¢‚½‚à‚Ì‚É‚È‚è(‚½‚Æ‚¦‚ÎCƒJƒƒ‰‚ªí‚Éƒ†[ƒU‚ÌŠÂ‹«‚ğgŒ©‘±‚¯‚Äh‚­‚ê‚é‚È‚Ç)C‚à‚µƒ†[ƒU‚ª“¹‚É–À‚Á‚½ê‡‚É‚ÍC”Ş‚ç‚ª¡‚Ç‚±‚É‚¢‚é‚Ì‚©gv‚¢o‚·hè“`‚¢‚ğƒfƒoƒCƒX‚ª‚µ‚Ä‚­‚ê‚Ü‚·D‚³‚ç‚ÉC‚±‚ÌƒfƒoƒCƒX‚Íƒtƒ‰ƒCƒgƒŒƒR[ƒ_[(Šµ—p“I‚Égblack boxh‚ÆŒÄ‚Ô)‚É‚à‚È‚èCŠëŒ¯‚É‚ÍC‚»‚±‚Å‹N‚±‚Á‚½o—ˆ–‚Æˆê‚Éƒ†[ƒU‚Ì¶—ó‘Ô‚ğ©“®“I‚Éæ“¾‚µ‚Ä‘¼Ğ‚É’Ê’m‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·D
+ã•ã‚‰ã«ï¼Œé“æ¡ˆå†…ã‚„é˜²çŠ¯ãƒ‡ãƒã‚¤ã‚¹ãªã©ã®ç”¨é€”ã‚‚å«ã‚ãŸåŒ…æ‹¬çš„ãªæ„å‘³ã§ã¯ï¼ŒBody-Borne Computingã¯ä¸‡äººå‘ã‘ã®ã‚‚ã®ã§ã™ï¼é“ã«è¿·ã£ãŸã¨ãã«ã‚¹ãƒãƒ¼ãƒˆãƒ•ã‚©ãƒ³ãŒé“æ¡ˆå†…ã‚’ã—ã¦ãã‚ŒãŸã‚Šï¼Œã‚ã‚‹ã„ã¯ç·Šæ€¥æ™‚ã«é€šå ±ã—ã¦å±é™ºã‹ã‚‰å®ˆã£ã¦ãã‚ŒãŸã‚Šã¨ã„ã£ãŸå½¢ã§ï¼ŒBody-Borne Computingã¯ã™ã§ã«å¤šãã®äººã€…ã®ç”Ÿæ´»ã®ä¸€éƒ¨ã¨ãªã£ã¦ã„ã¾ã™ï¼æ¬¡ä¸–ä»£ã®ã‚¹ãƒãƒ¼ãƒˆãƒ•ã‚©ãƒ³ã¯ï¼Œèº«ã«ã¤ã‘ã¦ä½¿ã†ã‚¿ã‚¤ãƒ—ã®ã‚‚ã£ã¨æ°—ã®åˆ©ã„ãŸã‚‚ã®ã«ãªã‚Š(ãŸã¨ãˆã°ï¼Œã‚«ãƒ¡ãƒ©ãŒå¸¸ã«ãƒ¦ãƒ¼ã‚¶ã®ç’°å¢ƒã‚’â€œè¦‹ç¶šã‘ã¦â€ãã‚Œã‚‹ãªã©)ï¼Œã‚‚ã—ãƒ¦ãƒ¼ã‚¶ãŒé“ã«è¿·ã£ãŸå ´åˆã«ã¯ï¼Œå½¼ã‚‰ãŒä»Šã©ã“ã«ã„ã‚‹ã®ã‹â€œæ€ã„å‡ºã™â€æ‰‹ä¼ã„ã‚’ãƒ‡ãƒã‚¤ã‚¹ãŒã—ã¦ãã‚Œã¾ã™ï¼ã•ã‚‰ã«ï¼Œã“ã®ãƒ‡ãƒã‚¤ã‚¹ã¯ãƒ•ãƒ©ã‚¤ãƒˆãƒ¬ã‚³ãƒ¼ãƒ€ãƒ¼(æ…£ç”¨çš„ã«â€œblack boxâ€ã¨å‘¼ã¶)ã«ã‚‚ãªã‚Šï¼Œå±é™ºæ™‚ã«ã¯ï¼Œãã“ã§èµ·ã“ã£ãŸå‡ºæ¥äº‹ã¨ä¸€ç·’ã«ãƒ¦ãƒ¼ã‚¶ã®ç”Ÿç†çŠ¶æ…‹ã‚’è‡ªå‹•çš„ã«å–å¾—ã—ã¦ä»–ç¤¾ã«é€šçŸ¥ã™ã‚‹ã“ã¨ãŒã§ãã¾ã™ï¼
 
 > Consider, for example, a simple heart monitor that continuously records ECG (ElectroCardioGram) along with video of the environment. This may help physicians correlate heart arrythmia, or other irregularties, with possible envioronmental causes of stress - a physician may be able to see what was happening to the patient at the time a problem was first detected.
 
-‚½‚Æ‚¦‚ÎCƒ†[ƒU‚ÌS“dî•ñ‚ğƒrƒfƒI‰f‘œ‚Æ‚Æ‚à‚É‹L˜^‚µ‘±‚¯‚éƒVƒ“ƒvƒ‹‚ÈS”ƒ‚ƒjƒ^[‚ğl‚¦‚Ä‚İ‚Ü‚µ‚å‚¤D‚±‚ÌƒfƒoƒCƒX‚É‚æ‚Á‚Äˆãt‚ÍCƒ†[ƒU‚Ì•s®–¬‚ÆŠÂ‹«‚©‚ç‚ÌƒXƒgƒŒƒX—vˆö‚Æ‚ğ‘ŠŠÖ‚Ã‚¯‚â‚·‚­‚È‚è‚Ü‚·Dˆãt‚ÍCŠ³Ò‚Ìg‘Ì‚ÉˆÙí‚ªŒŸo‚³‚ê‚½‚Æ‚«C‚»‚ÌŠ³Ò‚É‰½‚ª‚¨‚±‚Á‚Ä‚¢‚½‚Ì‚©‚ğ’m‚é‚±‚Æ‚ª‚Å‚«‚é‚æ‚¤‚É‚È‚é(‚©‚à‚µ‚ê‚È‚¢)‚Ì‚Å‚·D
+ãŸã¨ãˆã°ï¼Œãƒ¦ãƒ¼ã‚¶ã®å¿ƒé›»æƒ…å ±ã‚’ãƒ“ãƒ‡ã‚ªæ˜ åƒã¨ã¨ã‚‚ã«è¨˜éŒ²ã—ç¶šã‘ã‚‹ã‚·ãƒ³ãƒ—ãƒ«ãªå¿ƒæ‹ãƒ¢ãƒ‹ã‚¿ãƒ¼ã‚’è€ƒãˆã¦ã¿ã¾ã—ã‚‡ã†ï¼ã“ã®ãƒ‡ãƒã‚¤ã‚¹ã«ã‚ˆã£ã¦åŒ»å¸«ã¯ï¼Œãƒ¦ãƒ¼ã‚¶ã®ä¸æ•´è„ˆã¨ç’°å¢ƒã‹ã‚‰ã®ã‚¹ãƒˆãƒ¬ã‚¹è¦å› ã¨ã‚’ç›¸é–¢ã¥ã‘ã‚„ã™ããªã‚Šã¾ã™ï¼åŒ»å¸«ã¯ï¼Œæ‚£è€…ã®èº«ä½“ã«ç•°å¸¸ãŒæ¤œå‡ºã•ã‚ŒãŸã¨ãï¼Œãã®æ‚£è€…ã«ä½•ãŒãŠã“ã£ã¦ã„ãŸã®ã‹ã‚’çŸ¥ã‚‹ã“ã¨ãŒã§ãã‚‹ã‚ˆã†ã«ãªã‚‹(ã‹ã‚‚ã—ã‚Œãªã„)ã®ã§ã™ï¼
 
-## 23.3 l‚Æ‹@ŠB‚Ì‘ŠŒİŠÖŒW‚Æ‚µ‚Ä‚ÌWearable Computing
+## 23.3 äººã¨æ©Ÿæ¢°ã®ç›¸äº’é–¢ä¿‚ã¨ã—ã¦ã®Wearable Computing
 
 > 23.3 Wearable computing as a reciprocal relationship between man and machine
 > An important distinction between wearable computers and portable computers (handheld and laptop computers for example) is that the goal of wearable computing is to position or contextualize the computer in such a way that the human and computer are inextricably intertwined, so as to achieve Humanistic Intelligence ? i.e. intelligence that arises by having the human being in the feedback loop of the computational process, e.g. Mann 1998.
 
-Wearable Computer‚ÆPortable Computer(‚½‚Æ‚¦‚Îƒnƒ“ƒhƒwƒ‹ƒhŒ^‚âƒ‰ƒbƒvƒgƒbƒvŒ^‚È‚Ç)‚Æ‚Ìd—v‚Èˆá‚¢‚ÍCƒEƒFƒAƒ‰ƒuƒ‹ƒRƒ“ƒsƒ…[ƒeƒBƒ“ƒO‚ªClŠÔ‚ÆƒRƒ“ƒsƒ…[ƒ^‚Æ‚ğ–§Ú‚É—‚İ‡‚í‚¹‚é‚±‚Æ‚É‚æ‚èCƒRƒ“ƒsƒ…[ƒ^‚ÉgHumanistic IntelligencehiŒvZƒvƒƒZƒX‚ÌƒtƒB[ƒhƒoƒbƒNƒ‹[ƒv‚Ì’†‚É¶‚¶‚éClŠÔ‚ª‚Â‚æ‚¤‚È’m« [Mann 1998]j‚ğÀŒ»‚³‚¹‚é‚Æ‚¢‚¤–Ú“I‚ğ‚à‚Â“_‚Å‚·D
+Wearable Computerã¨Portable Computer(ãŸã¨ãˆã°ãƒãƒ³ãƒ‰ãƒ˜ãƒ«ãƒ‰å‹ã‚„ãƒ©ãƒƒãƒ—ãƒˆãƒƒãƒ—å‹ãªã©)ã¨ã®é‡è¦ãªé•ã„ã¯ï¼Œã‚¦ã‚§ã‚¢ãƒ©ãƒ–ãƒ«ã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ãƒ†ã‚£ãƒ³ã‚°ãŒï¼Œäººé–“ã¨ã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ã‚¿ã¨ã‚’å¯†æ¥ã«çµ¡ã¿åˆã‚ã›ã‚‹ã“ã¨ã«ã‚ˆã‚Šï¼Œã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ã‚¿ã«â€œHumanistic Intelligenceâ€ï¼ˆè¨ˆç®—ãƒ—ãƒ­ã‚»ã‚¹ã®ãƒ•ã‚£ãƒ¼ãƒ‰ãƒãƒƒã‚¯ãƒ«ãƒ¼ãƒ—ã®ä¸­ã«ç”Ÿã˜ã‚‹ï¼Œäººé–“ãŒæŒã¤ã‚ˆã†ãªçŸ¥æ€§ [Mann 1998]ï¼‰ã‚’å®Ÿç¾ã•ã›ã‚‹ã¨ã„ã†ç›®çš„ã‚’ã‚‚ã¤ç‚¹ã§ã™ï¼
 
 > An example of Humanistic Intelligence is the wearable face recognizer (Mann 1996) in which the computer takes the form of electric eyeglasses that "see" everything the wearer sees, and therefore the computer can interact serendipitously. A handheld or laptop computer would not provide the same serendipitous or unexpected interaction, whereas the wearable computer can pop-up virtual nametags if it ever "sees" someone its owner knows or ought to know.
 
-Humanistic Intelligence‚Ìˆê—á‚Éwearable face recognizer (Mann 1996)‚Æ‚¢‚¤ƒfƒoƒCƒX‚ª‚ ‚èC‚±‚ê‚ÍŠá‹¾‚ÌŒ`‚ğ‚µ‚½ƒRƒ“ƒsƒ…[ƒ^‚ªƒ†[ƒU‚ÌŒ©‚Ä‚¢‚é‘S‚Ä‚Ì‚à‚Ì‚ğ‚Â‚Ë‚ÉgŒ©‚Äh‚¨‚èC‚»‚ê‚É‚æ‚Á‚Äv‚¢‚ª‚¯‚È‚¢ƒCƒ“ƒ^ƒ‰ƒNƒVƒ‡ƒ“‚ğ‰Â”\‚É‚µ‚½‚à‚Ì‚Å‚·Dƒnƒ“ƒhƒwƒ‹ƒhŒ^‚âƒ‰ƒbƒvƒgƒbƒvŒ^‚ÌƒRƒ“ƒsƒ…[ƒ^‚Å‚Í‚±‚Ì‚æ‚¤‚Èv‚¢‚ª‚¯‚È‚¢ƒCƒ“ƒ^ƒ‰ƒNƒVƒ‡ƒ“‚ğ’ñ‹Ÿ‚·‚é‚±‚Æ‚ª“’ê‚Å‚«‚È‚¢‚Ì‚É‘Î‚µCƒEƒFƒAƒ‰ƒuƒ‹ƒRƒ“ƒsƒ…[ƒ^‚È‚ç‚ÎCƒ†[ƒU‚ªˆÈ‘O‚©‚ç’m‚Á‚Ä‚¢‚él‚ ‚é‚¢‚Í‚±‚ê‚©‚ç’m‚é‚×‚«l‚È‚Ç‚ğ‹ŠE‚É‚Æ‚ç‚¦‚½Û‚ÉCƒo[ƒ`ƒƒƒ‹‚Èƒl[ƒ€ƒ^ƒO‚ğ•\¦‚³‚¹‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·D
+Humanistic Intelligenceã®ä¸€ä¾‹ã«wearable face recognizer (Mann 1996)ã¨ã„ã†ãƒ‡ãƒã‚¤ã‚¹ãŒã‚ã‚Šï¼Œã“ã‚Œã¯çœ¼é¡ã®å½¢ã‚’ã—ãŸã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ã‚¿ãŒãƒ¦ãƒ¼ã‚¶ã®è¦‹ã¦ã„ã‚‹å…¨ã¦ã®ã‚‚ã®ã‚’ã¤ã­ã«â€œè¦‹ã¦â€ãŠã‚Šï¼Œãã‚Œã«ã‚ˆã£ã¦æ€ã„ãŒã‘ãªã„ã‚¤ãƒ³ã‚¿ãƒ©ã‚¯ã‚·ãƒ§ãƒ³ã‚’å¯èƒ½ã«ã—ãŸã‚‚ã®ã§ã™ï¼ãƒãƒ³ãƒ‰ãƒ˜ãƒ«ãƒ‰å‹ã‚„ãƒ©ãƒƒãƒ—ãƒˆãƒƒãƒ—å‹ã®ã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ã‚¿ã§ã¯ã“ã®ã‚ˆã†ãªæ€ã„ãŒã‘ãªã„ã‚¤ãƒ³ã‚¿ãƒ©ã‚¯ã‚·ãƒ§ãƒ³ã‚’æä¾›ã™ã‚‹ã“ã¨ãŒåˆ°åº•ã§ããªã„ã®ã«å¯¾ã—ï¼Œã‚¦ã‚§ã‚¢ãƒ©ãƒ–ãƒ«ã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ã‚¿ãªã‚‰ã°ï¼Œãƒ¦ãƒ¼ã‚¶ãŒä»¥å‰ã‹ã‚‰çŸ¥ã£ã¦ã„ã‚‹äººã‚ã‚‹ã„ã¯ã“ã‚Œã‹ã‚‰çŸ¥ã‚‹ã¹ãäººãªã©ã‚’è¦–ç•Œã«ã¨ã‚‰ãˆãŸéš›ã«ï¼Œãƒãƒ¼ãƒãƒ£ãƒ«ãªãƒãƒ¼ãƒ ã‚¿ã‚°ã‚’è¡¨ç¤ºã•ã›ã‚‹ã“ã¨ãŒã§ãã¾ã™ï¼
 > In this sense, wearable computing can be defined as an embodiment of, or an attempt to embody, Humanistic Intelligence. This definition also allows for the possibility of some or all of the technology to be implanted inside the body, thus broadening from "wearable computing" to "bearable computing" (i.e. body-borne computing).
 
-‚±‚Ì‚æ‚¤‚ÈŠÏ“_‚Å‚¢‚¦‚ÎCƒEƒFƒAƒ‰ƒuƒ‹ƒRƒ“ƒsƒ…[ƒeƒBƒ“ƒO‚Æ‚¢‚¤‚Ì‚ÍHumanistic Intelligence‚ğ‹ïŒ»‰»‚µ‚½‚à‚Ì(‚ ‚é‚¢‚ÍC‹ï‘Ì‰»‚µ‚æ‚¤‚Æ‚µ‚Ä‚¢‚é‚à‚Ì)‚Æ’è‹`‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·D‚±‚Ì’è‹`‚ÍCƒRƒ“ƒsƒ…[ƒ^‚ª‘Ì“à‚Éİ’u‚³‚ê‚é‚æ‚¤‚ÈƒP[ƒXC‚Â‚Ü‚è‚Ígwearable computingh‚©‚çgbearable computingh‚Ö‚ÌŠg’£‚àl—¶‚É“ü‚ê‚½‚à‚Ì‚Å‚·D
+ã“ã®ã‚ˆã†ãªè¦³ç‚¹ã§ã„ãˆã°ï¼Œã‚¦ã‚§ã‚¢ãƒ©ãƒ–ãƒ«ã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ãƒ†ã‚£ãƒ³ã‚°ã¨ã„ã†ã®ã¯Humanistic Intelligenceã‚’å…·ç¾åŒ–ã—ãŸã‚‚ã®(ã‚ã‚‹ã„ã¯ï¼Œå…·ä½“åŒ–ã—ã‚ˆã†ã¨ã—ã¦ã„ã‚‹ã‚‚ã®)ã¨å®šç¾©ã™ã‚‹ã“ã¨ãŒã§ãã¾ã™ï¼ã“ã®å®šç¾©ã¯ï¼Œã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ã‚¿ãŒä½“å†…ã«è¨­ç½®ã•ã‚Œã‚‹ã‚ˆã†ãªã‚±ãƒ¼ã‚¹ï¼Œã¤ã¾ã‚Šã¯â€œwearable computingâ€ã‹ã‚‰â€œbearable computingâ€ã¸ã®æ‹¡å¼µã‚‚è€ƒæ…®ã«å…¥ã‚ŒãŸã‚‚ã®ã§ã™ï¼
 
 > One of the main features of Humanistic Intelligence is constancy of interaction, that the human and computer are inextricably intertwined. This arises from constancy of interaction between the human and computer, i.e. there is no need to turn the device on prior to engaging it (thus, serendipity).
 
-Humanistic Intelligence‚Ìå‚È“Á’¥‚Ì‚Ğ‚Æ‚Â‚ÍCƒCƒ“ƒ^ƒ‰ƒNƒVƒ‡ƒ“‚ÌPí«C‚Â‚Ü‚è‚ÍlŠÔ‚ÆƒRƒ“ƒsƒ…[ƒ^‚Æ‚ª–§Ú‚É—‚İ‡‚Á‚Ä‚¢‚é‚Æ‚¢‚¤‚±‚Æ‚Å‚·DHumanistic Intelligence‚ÍClŠÔ‚Æ‹@ŠB‚ÌŠÔ‚ÌƒCƒ“ƒ^ƒ‰ƒNƒVƒ‡ƒ“‚ÌPí«C‚½‚Æ‚¦‚ÎƒfƒoƒCƒX‚ğg—p‚·‚éÛ‚É‚¢‚¿‚¢‚¿ƒXƒCƒbƒ`ON‚µ‚È‚­‚Ä‚æ‚¢‚Æ‚¢‚¤“_(‚¨‚æ‚ÑC‚»‚ê‚É‚æ‚è“¾‚ç‚ê‚év‚¢‚ª‚¯‚È‚¢‘ÌŒ±)‚É‚æ‚Á‚Ä¶‚¶‚Ü‚·D
+Humanistic Intelligenceã®ä¸»ãªç‰¹å¾´ã®ã²ã¨ã¤ã¯ï¼Œã‚¤ãƒ³ã‚¿ãƒ©ã‚¯ã‚·ãƒ§ãƒ³ã®æ’å¸¸æ€§ï¼Œã¤ã¾ã‚Šã¯äººé–“ã¨ã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ã‚¿ã¨ãŒå¯†æ¥ã«çµ¡ã¿åˆã£ã¦ã„ã‚‹ã¨ã„ã†ã“ã¨ã§ã™ï¼Humanistic Intelligenceã¯ï¼Œäººé–“ã¨æ©Ÿæ¢°ã®é–“ã®ã‚¤ãƒ³ã‚¿ãƒ©ã‚¯ã‚·ãƒ§ãƒ³ã®æ’å¸¸æ€§ï¼ŒãŸã¨ãˆã°ãƒ‡ãƒã‚¤ã‚¹ã‚’ä½¿ç”¨ã™ã‚‹éš›ã«ã„ã¡ã„ã¡ã‚¹ã‚¤ãƒƒãƒONã—ãªãã¦ã‚ˆã„ã¨ã„ã†ç‚¹(ãŠã‚ˆã³ï¼Œãã‚Œã«ã‚ˆã‚Šå¾—ã‚‰ã‚Œã‚‹æ€ã„ãŒã‘ãªã„ä½“é¨“)ã«ã‚ˆã£ã¦ç”Ÿã˜ã¾ã™ï¼
 
 > Another feature of Humanistic Intelligence is the ability to multi-task. It is not necessary for a person to stop what they are doing to use a wearable computer because it is always running in the background, so as to augment or mediate the human's interactions. Wearable computers can be incorporated by the user to act like a prosthetic, thus forming a true extension of the user's mind and body.
 
-Humanistic Intelligence‚Ì‚à‚¤‚Ğ‚Æ‚Â‚Ì“Á’¥‚ÍCƒ}ƒ‹ƒ`ƒ^ƒXƒN‚ª‚Å‚«‚é‚Æ‚¢‚¤‚±‚Æ‚Å‚·DƒEƒFƒAƒ‰ƒuƒ‹ƒRƒ“ƒsƒ…[ƒ^‚Íí‚ÉƒoƒbƒNƒOƒ‰ƒEƒ“ƒh‚Å“®‚«‘±‚¯‚Ä‚¨‚èClŠÔ‚ÌƒCƒ“ƒ^ƒ‰ƒNƒVƒ‡ƒ“‚ğ‘•E’‡‰î‚µ‚Ä‚­‚ê‚é‚Ì‚ÅClŠÔ‚ªƒEƒFƒAƒ‰ƒuƒ‹ƒRƒ“ƒsƒ…[ƒ^‚ğg—p‚·‚éÛ‚ÉŒ»İ‚Ìì‹Æ‚ğ~‚ß‚é•K—v‚Í‚ ‚è‚Ü‚¹‚ñDƒEƒFƒAƒ‰ƒuƒ‹ƒRƒ“ƒsƒ…[ƒ^‚Í‹`ŠáC‹`è‚Ì‚æ‚¤‚Éƒ†[ƒU‚Æ‘g‚İ‡‚í‚³‚èCƒ†[ƒU‚Ì“ª”]‚âg‘Ì‚ğ–{“–‚ÌˆÓ–¡‚ÅŠg’£‚·‚é‚±‚Æ‚ª‚Å‚«‚é‚Ì‚Å‚·D
+Humanistic Intelligenceã®ã‚‚ã†ã²ã¨ã¤ã®ç‰¹å¾´ã¯ï¼Œãƒãƒ«ãƒã‚¿ã‚¹ã‚¯ãŒã§ãã‚‹ã¨ã„ã†ã“ã¨ã§ã™ï¼ã‚¦ã‚§ã‚¢ãƒ©ãƒ–ãƒ«ã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ã‚¿ã¯å¸¸ã«ãƒãƒƒã‚¯ã‚°ãƒ©ã‚¦ãƒ³ãƒ‰ã§å‹•ãç¶šã‘ã¦ãŠã‚Šï¼Œäººé–“ã®ã‚¤ãƒ³ã‚¿ãƒ©ã‚¯ã‚·ãƒ§ãƒ³ã‚’å¢—å¹…ãƒ»ä»²ä»‹ã—ã¦ãã‚Œã‚‹ã®ã§ï¼Œäººé–“ãŒã‚¦ã‚§ã‚¢ãƒ©ãƒ–ãƒ«ã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ã‚¿ã‚’ä½¿ç”¨ã™ã‚‹éš›ã«ç¾åœ¨ã®ä½œæ¥­ã‚’æ­¢ã‚ã‚‹å¿…è¦ã¯ã‚ã‚Šã¾ã›ã‚“ï¼ã‚¦ã‚§ã‚¢ãƒ©ãƒ–ãƒ«ã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ã‚¿ã¯ç¾©çœ¼ï¼Œç¾©æ‰‹ã®ã‚ˆã†ã«ãƒ¦ãƒ¼ã‚¶ã¨çµ„ã¿åˆã‚ã•ã‚Šï¼Œãƒ¦ãƒ¼ã‚¶ã®é ­è„³ã‚„èº«ä½“ã‚’æœ¬å½“ã®æ„å‘³ã§æ‹¡å¼µã™ã‚‹ã“ã¨ãŒã§ãã‚‹ã®ã§ã™ï¼
 
 > It is common in the field of Human-Computer I nteraction (HCI) to think of the human and computer as separate entities. The term "Human-Computer Interaction" emphasizes this separateness by treating the human and computer as different entities that interact. However, Humanistic Intelligence theory thinks of the wearer and the computer with its associated input and output facilities not as separate entities, but regards the computer as a second brain and its sensory modalities as additional senses, in which synthetic synesthesia merges with the wearer's senses. In this context, wearable computing has been referred to as a "Sixth Sense" (Mann & Niedzviecki 2001, Mann 2001 and Geary 2002).
 
-Human-Computer Interaction(HCI)‚Ì—Ìˆæ‚Å‚ÍCˆê”Ê“I‚ÉClŠÔ‚ÆƒRƒ“ƒsƒ…[ƒ^‚Æ‚Í•ÊX‚ÌŒÂ‘Ì‚Æ‚µ‚Äˆµ‚í‚ê‚Ü‚·DgHuman-Computer Interactionh‚Æ‚¢‚¤—pŒê©‘Ì‚ªClŠÔ‚ÆƒRƒ“ƒsƒ…[ƒ^‚ªŒİ‚¢‚ÉŠÖŒW‚µ‡‚¤•ÊX‚Ì‘¶İ‚Å‚ ‚é‚±‚Æ‚ğ•\‚µ‚Ä‚¢‚Ü‚·D‚µ‚©‚µ‚È‚ª‚çCHumanistic Intelligence—˜_‚É‚¨‚¢‚Ä‚ÍCƒ†[ƒU‚ÆƒRƒ“ƒsƒ…[ƒ^C‚¨‚æ‚Ñ‚»‚ê‚ç‚ğ‚Â‚È‚®IOƒCƒ“ƒ^[ƒtƒF[ƒX‚ğ‚»‚ê‚¼‚ê•Ê‚ÌŒÂ‘Ì‚Æ‚Íˆµ‚í‚¸CƒRƒ“ƒsƒ…[ƒ^‚ğ‘æ“ñ‚Ì”]‚Æ‚µ‚ÄCŠeíƒZƒ“ƒTƒ‚ƒ_ƒŠƒeƒB‚ğ•t‰Á“I‚ÈŠ´Šo‚Æ‚µ‚ÄCƒ†[ƒU‚Ì‡¬‹¤Š´Šo‚ª‚±‚ê‚ç‚Ì•t‰ÁŠ´Šo‚ğƒ†[ƒU–{—ˆ‚ÌŠ´Šo‚Æƒ}[ƒW‚·‚é‚à‚Ì‚Æ‚µ‚Äˆµ‚Á‚Ä‚¢‚Ü‚·D‚±‚¤‚¢‚Á‚½•¶–¬‚ÅCƒEƒFƒAƒ‰ƒuƒ‹ƒRƒ“ƒsƒ…[ƒeƒBƒ“ƒO‚Íˆêí‚Ìg‘æ˜ZŠ´h‚Å‚ ‚é‚Æ‚İ‚È‚³‚ê‚Ä‚¢‚Ü‚·(Mann & Niedzviecki 2001, Mann 2001 and Geary 2002)D
+Human-Computer Interaction(HCI)ã®é ˜åŸŸã§ã¯ï¼Œä¸€èˆ¬çš„ã«ï¼Œäººé–“ã¨ã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ã‚¿ã¨ã¯åˆ¥ã€…ã®å€‹ä½“ã¨ã—ã¦æ‰±ã‚ã‚Œã¾ã™ï¼â€œHuman-Computer Interactionâ€ã¨ã„ã†ç”¨èªè‡ªä½“ãŒï¼Œäººé–“ã¨ã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ã‚¿ãŒäº’ã„ã«é–¢ä¿‚ã—åˆã†åˆ¥ã€…ã®å­˜åœ¨ã§ã‚ã‚‹ã“ã¨ã‚’è¡¨ã—ã¦ã„ã¾ã™ï¼ã—ã‹ã—ãªãŒã‚‰ï¼ŒHumanistic Intelligenceç†è«–ã«ãŠã„ã¦ã¯ï¼Œãƒ¦ãƒ¼ã‚¶ã¨ã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ã‚¿ï¼ŒãŠã‚ˆã³ãã‚Œã‚‰ã‚’ã¤ãªãIOã‚¤ãƒ³ã‚¿ãƒ¼ãƒ•ã‚§ãƒ¼ã‚¹ã‚’ãã‚Œãã‚Œåˆ¥ã®å€‹ä½“ã¨ã¯æ‰±ã‚ãšï¼Œã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ã‚¿ã‚’ç¬¬äºŒã®è„³ã¨ã—ã¦ï¼Œå„ç¨®ã‚»ãƒ³ã‚µãƒ¢ãƒ€ãƒªãƒ†ã‚£ã‚’ä»˜åŠ çš„ãªæ„Ÿè¦šã¨ã—ã¦ï¼Œãƒ¦ãƒ¼ã‚¶ã®åˆæˆå…±æ„Ÿè¦šãŒã“ã‚Œã‚‰ã®ä»˜åŠ æ„Ÿè¦šã‚’ãƒ¦ãƒ¼ã‚¶æœ¬æ¥ã®æ„Ÿè¦šã¨ãƒãƒ¼ã‚¸ã™ã‚‹ã‚‚ã®ã¨ã—ã¦æ‰±ã£ã¦ã„ã¾ã™ï¼ã“ã†ã„ã£ãŸæ–‡è„ˆã§ï¼Œã‚¦ã‚§ã‚¢ãƒ©ãƒ–ãƒ«ã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ãƒ†ã‚£ãƒ³ã‚°ã¯ä¸€ç¨®ã®â€œç¬¬å…­æ„Ÿâ€ã§ã‚ã‚‹ã¨ã¿ãªã•ã‚Œã¦ã„ã¾ã™(Mann & Niedzviecki 2001, Mann 2001 and Geary 2002)ï¼
 
 > When a wearable computer functions as a successful embodiment of Humanistic Intelligence, the computer uses the human's mind and body as one of its peripherals, just as the human uses the computer as a peripheral. This reciprocal relationship is at the heart of Humanistic Intelligence (Mann 2001, Mann 1998, and Knight 2000)
 
-ƒEƒFƒAƒ‰ƒuƒ‹ƒRƒ“ƒsƒ…[ƒ^‚Ì‹@”\‚ğHumanistic Intelligence‚Ì‹ïŒ»‰»‚Ì¬Œ÷—á‚Æl‚¦‚é‚È‚ç‚ÎCƒRƒ“ƒsƒ…[ƒ^‚ÍlŠÔ‚Ì“ª”]‚âg‘Ì‚ğ‚İ‚¸‚©‚ç‚Ìü•Ó‹@Ší‚Æ‚µ‚Äˆµ‚Á‚Ä‚¢‚é‚±‚Æ‚Æ‚È‚è‚Ü‚·(lŠÔ‚ªƒRƒ“ƒsƒ…[ƒ^‚ğ‚İ‚¸‚©‚ç‚Ìü•Ó‹@Ší‚Æ‚µ‚Äˆµ‚¤‚Ì‚Æ“¯—l‚É)D‚±‚Ì‘ŠŒİŠÖŒW‚±‚»‚ªCHumanistic Intelligence‚ÌŠÌ‚È‚Ì‚Å‚·(Mann 2001, Mann 1998, and Knight 2000)D
+ã‚¦ã‚§ã‚¢ãƒ©ãƒ–ãƒ«ã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ã‚¿ã®æ©Ÿèƒ½ã‚’Humanistic Intelligenceã®å…·ç¾åŒ–ã®æˆåŠŸä¾‹ã¨è€ƒãˆã‚‹ãªã‚‰ã°ï¼Œã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ã‚¿ã¯äººé–“ã®é ­è„³ã‚„èº«ä½“ã‚’ã¿ãšã‹ã‚‰ã®å‘¨è¾ºæ©Ÿå™¨ã¨ã—ã¦æ‰±ã£ã¦ã„ã‚‹ã“ã¨ã¨ãªã‚Šã¾ã™(äººé–“ãŒã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ã‚¿ã‚’ã¿ãšã‹ã‚‰ã®å‘¨è¾ºæ©Ÿå™¨ã¨ã—ã¦æ‰±ã†ã®ã¨åŒæ§˜ã«)ï¼ã“ã®ç›¸äº’é–¢ä¿‚ã“ããŒï¼ŒHumanistic Intelligenceã®è‚ãªã®ã§ã™(Mann 2001, Mann 1998, and Knight 2000)ï¼
 
-## 23.4 ƒEƒFƒAƒ‰ƒuƒ‹ƒRƒ“ƒsƒ…[ƒeƒBƒ“ƒO‚Ì‹ï‘Ì—á
+## 23.4 ã‚¦ã‚§ã‚¢ãƒ©ãƒ–ãƒ«ã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ãƒ†ã‚£ãƒ³ã‚°ã®å…·ä½“ä¾‹
 
-### 23.4.1 —á1 : Augmented Reality (AR)
+### 23.4.1 ä¾‹1 : Augmented Reality (AR)
 
-> Augmented Reality means to super-impose an extra layer on a real-world environment, thereby augmenting it. An haugmented realityh is thus a view of a physical, real-world environment whose elements are augmented by computer-generated sensory input such as sound, video, graphics or GPS data. One example is the Wikitude application for the iPhone which lets you point your iPhonefs camera at something, which is then gaugmentedh with information from the Wikipedia (strictly speaking this is a mediated reality because the iPhone actually modifies vision in some ways - even if nothing more than the fact we're seeing with a camera).
+> Augmented Reality means to super-impose an extra layer on a real-world environment, thereby augmenting it. An â€augmented realityâ€ is thus a view of a physical, real-world environment whose elements are augmented by computer-generated sensory input such as sound, video, graphics or GPS data. One example is the Wikitude application for the iPhone which lets you point your iPhoneâ€™s camera at something, which is then â€œaugmentedâ€ with information from the Wikipedia (strictly speaking this is a mediated reality because the iPhone actually modifies vision in some ways - even if nothing more than the fact we're seeing with a camera).
 
-gAugmented Realityh(AR,Šg’£Œ»ÀŠ´)‚Æ‚ÍCÀ¢ŠEŠÂ‹«‚Ì‚¤‚¦‚ÉŠO•”ƒŒƒCƒ„[‚ğdô‚µ‚ÄCÀ¢ŠE‚ğŠg’£‚·‚éŠT”O‚Ì‚±‚Æ‚ğw‚µ‚Ü‚·D‚Â‚Ü‚èCAugmented Reality‚Æ‚ÍCÀ¢ŠEŠÂ‹«‚ğƒRƒ“ƒsƒ…[ƒ^‚Åˆ—‚³‚ê‚½ƒZƒ“ƒT“ü—Í(‰¹‚â‰f‘œCCG‚âGPSƒf[ƒ^‚È‚Ç)‚É‚æ‚Á‚ÄŠg’£‚µ‚½‚à‚Ì‚Å‚ ‚é‚Æ‚¢‚¦‚Ü‚·D—á‚Ì‚Ğ‚Æ‚Â‚Æ‚µ‚ÄCWikitube‚Æ‚¢‚¤ƒAƒvƒŠƒP[ƒVƒ‡ƒ“‚ª‚ ‚èC‚±‚ê‚ÍiPhone‚ÌƒJƒƒ‰‚ğ•¨‘Ì‚É‚©‚´‚·‚±‚Æ‚Å‚»‚Ì•¨‘Ì‚Ìî•ñ‚ğWikipedia‚©‚çæ“¾‚µCgŠg’£h•\¦‚·‚é‚Æ‚¢‚¤‚à‚Ì‚Å‚·D‚½‚¾‚µŒµ–§‚É‚¢‚¦‚ÎCiPhone‚ÍÀÛ‚É‚Í(‚½‚Æ‚¦ƒJƒƒ‰‰z‚µ‚ÉÀ¢ŠE‚ğŒ©‚Ä‚¢‚é‚¾‚¯‚¾‚Æ‚µ‚Ä‚à)‹Šoî•ñ‚ğ‰ü•Ï‚µ‚½Œ`‚Å•\¦‚µ‚Ä‚¢‚é‚±‚Æ‚É‚È‚é‚Ì‚ÅC‚±‚ê‚ÍgMediated Realityh‚Æ‚¢‚¤ŠT”O‚É‚ ‚½‚è‚Ü‚·D
+â€œAugmented Realityâ€(AR,æ‹¡å¼µç¾å®Ÿæ„Ÿ)ã¨ã¯ï¼Œå®Ÿä¸–ç•Œç’°å¢ƒã®ã†ãˆã«å¤–éƒ¨ãƒ¬ã‚¤ãƒ¤ãƒ¼ã‚’é‡ç•³ã—ã¦ï¼Œå®Ÿä¸–ç•Œã‚’æ‹¡å¼µã™ã‚‹æ¦‚å¿µã®ã“ã¨ã‚’æŒ‡ã—ã¾ã™ï¼ã¤ã¾ã‚Šï¼ŒAugmented Realityã¨ã¯ï¼Œå®Ÿä¸–ç•Œç’°å¢ƒã‚’ã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ã‚¿ã§å‡¦ç†ã•ã‚ŒãŸã‚»ãƒ³ã‚µå…¥åŠ›(éŸ³ã‚„æ˜ åƒï¼ŒCGã‚„GPSãƒ‡ãƒ¼ã‚¿ãªã©)ã«ã‚ˆã£ã¦æ‹¡å¼µã—ãŸã‚‚ã®ã§ã‚ã‚‹ã¨ã„ãˆã¾ã™ï¼ä¾‹ã®ã²ã¨ã¤ã¨ã—ã¦ï¼ŒWikitubeã¨ã„ã†ã‚¢ãƒ—ãƒªã‚±ãƒ¼ã‚·ãƒ§ãƒ³ãŒã‚ã‚Šï¼Œã“ã‚Œã¯iPhoneã®ã‚«ãƒ¡ãƒ©ã‚’ç‰©ä½“ã«ã‹ã–ã™ã“ã¨ã§ãã®ç‰©ä½“ã®æƒ…å ±ã‚’Wikipediaã‹ã‚‰å–å¾—ã—ï¼Œâ€œæ‹¡å¼µâ€è¡¨ç¤ºã™ã‚‹ã¨ã„ã†ã‚‚ã®ã§ã™ï¼ãŸã ã—å³å¯†ã«ã„ãˆã°ï¼ŒiPhoneã¯å®Ÿéš›ã«ã¯(ãŸã¨ãˆã‚«ãƒ¡ãƒ©è¶Šã—ã«å®Ÿä¸–ç•Œã‚’è¦‹ã¦ã„ã‚‹ã ã‘ã ã¨ã—ã¦ã‚‚)è¦–è¦šæƒ…å ±ã‚’æ”¹å¤‰ã—ãŸå½¢ã§è¡¨ç¤ºã—ã¦ã„ã‚‹ã“ã¨ã«ãªã‚‹ã®ã§ï¼Œã“ã‚Œã¯â€œMediated Realityâ€ã¨ã„ã†æ¦‚å¿µã«ã‚ãŸã‚Šã¾ã™ï¼
 
 ![Augmented Reality prototype.](http://www.interaction-design.org/images/encyclopedia/wearable_computing/Augmented_reality_-_heads_up_display_concept_illustrationSmaller.jpg)
 
-Figure 23.1: AR‚Ìƒvƒƒgƒ^ƒCƒv
+Figure 23.1: ARã®ãƒ—ãƒ­ãƒˆã‚¿ã‚¤ãƒ—
 
 ![Photograph of the Head-Up Display taken by a pilot on a McDonnell Douglas F/A-18 Hornet.](http://www.interaction-design.org/images/encyclopedia/wearable_computing/Head-up-display-hangar_illustrationSmaller.jpg)
 
-Figure 23.2: McDonnell Douglas F/A-18 Hornet‚É“‹Ú‚³‚ê‚½‘O•û•\¦•â•—pƒfƒBƒXƒvƒŒƒC(ƒpƒCƒƒbƒg‹“_‚©‚çB‰e)
+Figure 23.2: McDonnell Douglas F/A-18 Hornetã«æ­è¼‰ã•ã‚ŒãŸå‰æ–¹è¡¨ç¤ºè£œåŠ©ç”¨ãƒ‡ã‚£ã‚¹ãƒ—ãƒ¬ã‚¤(ãƒ‘ã‚¤ãƒ­ãƒƒãƒˆè¦–ç‚¹ã‹ã‚‰æ’®å½±)
 
 ![The glogger.mobi application: Augmented reality 'lined up' with reality.](http://www.interaction-design.org/images/encyclopedia/wearable_computing/augmented_reality_glogger_iphone_illustrationSmaller.jpg)
 
-Figure 23.3: glogger.mobi ƒAƒvƒŠ: AR‚É‚æ‚èü‚ªdô‚³‚ê‚éD
+Figure 23.3: glogger.mobi ã‚¢ãƒ—ãƒª: ARã«ã‚ˆã‚Šç·šãŒé‡ç•³ã•ã‚Œã‚‹ï¼
 
 ![The Wikitude iphone application.](http://www.interaction-design.org/images/encyclopedia/wearable_computing/augmented_reality_Wikitude_illustrationSmaller.jpg)
 
-Figure 23.4: The Wikitude‚ÌiPhoneƒAƒvƒŠ
+Figure 23.4: The Wikitudeã®iPhoneã‚¢ãƒ—ãƒª
 
 > A concrete example of wearable computing used for augmented reality is Mann's pendant-based camera and projector system for Augmented Reality. The system shown below was completed by Mann in 1998:
 
-ƒEƒFƒAƒ‰ƒuƒ‹ƒRƒ“ƒsƒ…[ƒeƒBƒ“ƒO‚ğAR‚É—˜—p‚µ‚½‹ï‘Ì—á‚Ì‚Ğ‚Æ‚Â‚ÉCMann‚É‚æ‚éƒyƒ“ƒ_ƒ“ƒgŒ^ƒJƒƒ‰{ƒvƒƒWƒFƒNƒ^ƒVƒXƒeƒ€‚ª‚ ‚è‚Ü‚·D
-‰º‹L‚ÌƒVƒXƒeƒ€‚ÍMann‚É‚æ‚Á‚Ä1998”N‚ÉŒöŠJ‚³‚ê‚½‚à‚Ì‚Å‚·D
+ã‚¦ã‚§ã‚¢ãƒ©ãƒ–ãƒ«ã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ãƒ†ã‚£ãƒ³ã‚°ã‚’ARã«åˆ©ç”¨ã—ãŸå…·ä½“ä¾‹ã®ã²ã¨ã¤ã«ï¼ŒMannã«ã‚ˆã‚‹ãƒšãƒ³ãƒ€ãƒ³ãƒˆå‹ã‚«ãƒ¡ãƒ©ï¼‹ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ã‚¿ã‚·ã‚¹ãƒ†ãƒ ãŒã‚ã‚Šã¾ã™ï¼
+ä¸‹è¨˜ã®ã‚·ã‚¹ãƒ†ãƒ ã¯Mannã«ã‚ˆã£ã¦1998å¹´ã«å…¬é–‹ã•ã‚ŒãŸã‚‚ã®ã§ã™ï¼
 
 ![Neckworn self-gesturing webcam and projector system designed and built by Steve Mann in 1998.](http://www.interaction-design.org/images/encyclopedia/wearable_computing/SixthSense_SteveMann_1998_illustrationThreeOnARow.jpg)
 
-Figure 23.5: ñ’ñ‚°Œ^‚Ìwebcam(ƒWƒFƒXƒ`ƒƒæ“¾—p)+ƒvƒƒWƒFƒNƒ^‚É‚æ‚éARƒVƒXƒeƒ€DŠJ”­İŒv‚Æ‚à‚ÉSteve Mann, 1998.
+Figure 23.5: é¦–æã’å‹ã®webcam(ã‚¸ã‚§ã‚¹ãƒãƒ£å–å¾—ç”¨)+ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ã‚¿ã«ã‚ˆã‚‹ARã‚·ã‚¹ãƒ†ãƒ ï¼é–‹ç™ºè¨­è¨ˆã¨ã‚‚ã«Steve Mann, 1998.
 
 ![Closeup of dome pendant showing the laser-based infinite depth-of-focus projector, called an "aremac" (Mann 2001). The laser-based aremac was developed to project onto any 3D surface and does not require any focusing adjustments.](http://www.interaction-design.org/images/encyclopedia/wearable_computing/SixthSense_aremac_in_domewear_illustrationThreeOnARow.jpg)
 
-Figure 23.6: –³ŒÀ‚ÌÅ“_[“x‚ğ‚à‚ÂƒŒ[ƒU[ƒx[ƒX‚ÌƒvƒƒWƒFƒNƒ^‚ğ“‹Ú‚µ‚½Cƒh[ƒ€ƒyƒ“ƒ_ƒ“ƒgŒ^‚ÌƒfƒoƒCƒXC"aremac"‚ÌƒNƒ[ƒYƒAƒbƒvÊ^(Mann 2001). ƒŒ[ƒU[ƒx[ƒX‚Ìaremac‚ÍC‚Ç‚ñ‚È3ŸŒ³‰š“Ê‚ğ‚à‚Â•¨‘Ì‚É‚à“Š‰e‚Å‚«CÅ“_’²®‚à•s—v‚È‚æ‚¤‚ÉİŒv‚³‚ê‚Ä‚¢‚éD
+Figure 23.6: ç„¡é™ã®ç„¦ç‚¹æ·±åº¦ã‚’ã‚‚ã¤ãƒ¬ãƒ¼ã‚¶ãƒ¼ãƒ™ãƒ¼ã‚¹ã®ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ã‚¿ã‚’æ­è¼‰ã—ãŸï¼Œãƒ‰ãƒ¼ãƒ ãƒšãƒ³ãƒ€ãƒ³ãƒˆå‹ã®ãƒ‡ãƒã‚¤ã‚¹ï¼Œ"aremac"ã®ã‚¯ãƒ­ãƒ¼ã‚ºã‚¢ãƒƒãƒ—å†™çœŸ(Mann 2001). ãƒ¬ãƒ¼ã‚¶ãƒ¼ãƒ™ãƒ¼ã‚¹ã®aremacã¯ï¼Œã©ã‚“ãª3æ¬¡å…ƒå‡¹å‡¸ã‚’ã‚‚ã¤ç‰©ä½“ã«ã‚‚æŠ•å½±ã§ãï¼Œç„¦ç‚¹èª¿æ•´ã‚‚ä¸è¦ãªã‚ˆã†ã«è¨­è¨ˆã•ã‚Œã¦ã„ã‚‹ï¼
 
 ![Early breadboard prototype of the aremac that Mann developed for the neckworn webcam+projector.](http://www.interaction-design.org/images/encyclopedia/wearable_computing/SixthSense_aremac_on_breadboard_illustrationThreeOnARow.jpg)
 
-Figure 23.7: aremac‰Šú‚ÌƒuƒŒƒbƒhƒ{[ƒh‰ñ˜H.
+Figure 23.7: aremacåˆæœŸã®ãƒ–ãƒ¬ãƒƒãƒ‰ãƒœãƒ¼ãƒ‰å›è·¯.
 
->  In Figure 23.5 the wearer is shopping for milk, but this could also have been a more significant purchase like a new car or a house. The wearer's wife, at a remote location, is looking through the camera by way of a projection screen in her living room in another country. She points a laser pointer at the screen, and a vision system in the projector tracks that and remotely operates the aremac in the wearer's necklace. Thus he sees whatever she draws or scribbles on her screen. This scribbling or drawing directly annotates the grealityh that he's experiencing.
+>  In Figure 23.5 the wearer is shopping for milk, but this could also have been a more significant purchase like a new car or a house. The wearer's wife, at a remote location, is looking through the camera by way of a projection screen in her living room in another country. She points a laser pointer at the screen, and a vision system in the projector tracks that and remotely operates the aremac in the wearer's necklace. Thus he sees whatever she draws or scribbles on her screen. This scribbling or drawing directly annotates the â€œrealityâ€ that he's experiencing.
 
-Figure 23.5‚Åƒ†[ƒU(’j«)‚Íaremac‚ğ—p‚¢‚Äƒ~ƒ‹ƒN‚Ì”ƒ‚¢•¨‚ğ‚µ‚Ä‚¢‚Ü‚·‚ªC‚à‚¿‚ë‚ñ‚±‚ê‚ÍÔ‚â‰Æ‚È‚Ç‚Ì‚à‚Á‚Æd—v‚È”ƒ‚¢•¨‚É‚àg—p‚Å‚«‚Ü‚·D‚½‚Æ‚¦‚ÎC‰“‚­—£‚ê‚½êŠ‚É‚¢‚éƒ†[ƒU‚ÌÈ‚ªCƒŠƒrƒ“ƒO‚É’u‚©‚ê‚½ƒXƒNƒŠ[ƒ“‚ğg‚Á‚ÄCƒ†[ƒU‚ÌƒJƒƒ‰‚ÉÊ‚Á‚½‰f‘œ‚ğŒ©‚Ü‚·D”Ş—(È)‚ªƒŒ[ƒU[ƒ|ƒCƒ“ƒ^‚ÅƒXƒNƒŠ[ƒ“‚ğw‚·‚ÆCƒVƒXƒeƒ€‚ªƒ|ƒCƒ“ƒ^‚ÌˆÊ’u‚ğƒgƒ‰ƒbƒLƒ“ƒO‚µ‚Ä‰“Šuƒ†[ƒU‚Ìaremac‚ğ‘€ì‚µ‚Ü‚·D‚·‚é‚ÆC”Ş(ƒ†[ƒU)‚Í”Ş—‚ªƒXƒNƒŠ[ƒ“‚É‘‚¢‚½“à—e‚ğŒ©‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·D‚±‚Ì’¼Ú‘‚­‚Æ‚¢‚¤sˆ×‚±‚»‚ªCƒ†[ƒU‚Ì‘ÌŒ±‚µ‚Ä‚¢‚é"ƒŠƒAƒŠƒeƒB"‚ğ‚æ‚­•\‚µ‚Ä‚¢‚é‚Æ‚¢‚¦‚é‚Å‚µ‚å‚¤D
+Figure 23.5ã§ãƒ¦ãƒ¼ã‚¶(ç”·æ€§)ã¯aremacã‚’ç”¨ã„ã¦ãƒŸãƒ«ã‚¯ã®è²·ã„ç‰©ã‚’ã—ã¦ã„ã¾ã™ãŒï¼Œã‚‚ã¡ã‚ã‚“ã“ã‚Œã¯è»Šã‚„å®¶ãªã©ã®ã‚‚ã£ã¨é‡è¦ãªè²·ã„ç‰©ã«ã‚‚ä½¿ç”¨ã§ãã¾ã™ï¼ãŸã¨ãˆã°ï¼Œé ãé›¢ã‚ŒãŸå ´æ‰€ã«ã„ã‚‹ãƒ¦ãƒ¼ã‚¶ã®å¦»ãŒï¼Œãƒªãƒ“ãƒ³ã‚°ã«ç½®ã‹ã‚ŒãŸã‚¹ã‚¯ãƒªãƒ¼ãƒ³ã‚’ä½¿ã£ã¦ï¼Œãƒ¦ãƒ¼ã‚¶ã®ã‚«ãƒ¡ãƒ©ã«å†™ã£ãŸæ˜ åƒã‚’è¦‹ã¾ã™ï¼å½¼å¥³(å¦»)ãŒãƒ¬ãƒ¼ã‚¶ãƒ¼ãƒã‚¤ãƒ³ã‚¿ã§ã‚¹ã‚¯ãƒªãƒ¼ãƒ³ã‚’æŒ‡ã™ã¨ï¼Œã‚·ã‚¹ãƒ†ãƒ ãŒãƒã‚¤ãƒ³ã‚¿ã®ä½ç½®ã‚’ãƒˆãƒ©ãƒƒã‚­ãƒ³ã‚°ã—ã¦é éš”ãƒ¦ãƒ¼ã‚¶ã®aremacã‚’æ“ä½œã—ã¾ã™ï¼ã™ã‚‹ã¨ï¼Œå½¼(ãƒ¦ãƒ¼ã‚¶)ã¯å½¼å¥³ãŒã‚¹ã‚¯ãƒªãƒ¼ãƒ³ã«æ›¸ã„ãŸå†…å®¹ã‚’è¦‹ã‚‹ã“ã¨ãŒã§ãã¾ã™ï¼ã“ã®ç›´æ¥æ›¸ãã¨ã„ã†è¡Œç‚ºã“ããŒï¼Œãƒ¦ãƒ¼ã‚¶ã®ä½“é¨“ã—ã¦ã„ã‚‹"ãƒªã‚¢ãƒªãƒ†ã‚£"ã‚’ã‚ˆãè¡¨ã—ã¦ã„ã‚‹ã¨ã„ãˆã‚‹ã§ã—ã‚‡ã†ï¼
 
 (to be continued...)
