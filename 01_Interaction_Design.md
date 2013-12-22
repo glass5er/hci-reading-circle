@@ -139,3 +139,56 @@ by Jonas Lowgren.
 
 同じような状況は、現代のインタラクションデザイン界には無数に存在します。```難しいので略```
 インタラクションデザインはデジタルな物を分かりやすくし、サービスデザインや都市開発、政治的な変化と言った教養を含むプロの要望にこたえられるようにすることが必要である、というのが私の提案です。本質的には、ここで採用しているインタラクションデザイナの立ち位置は、インタラクションデザインがノンデジタルな領域に移っていったときも、理想的なシナリオとしてはマルチディシプリナリーなデザインチームの設立、という形で引き継がれていきます。```←よく分からない```しかし実際の業務においては、それは必ずしも実行可能な選択ではありません。すぐに成果を上げられる、という短期のベネフィットは、長期的な視点においては、プロフェッショナル未満のことしかできない、という危険性をはらんでいます。
+
+##1.3 人々の利用、とインタラクションデザイン
+> People’s use is what interaction design shapes digital things for. As indicated above, the historical notion of people’s use was tightly connected to workplace settings and instrumental motivations: Use the program to get the job done as quickly, efficiently and correctly as possible. With the growth of digital technology outside the workplace in the form of consumer products came other notions of use, such as using for entertainment and for pleasure. Internet penetration has made way for use as communication, which is arguably today the most prominent kind of use of digital technology.
+
+人々が利用する事ことが、インタラクションデザインがデジタルな物を形作る目的です。上述したように、人々が利用する、ということの歴史的な理解は、仕事場所のセッティングや役に立つかどうかといったモチベーションと強く紐付いていました。プログラムを利用するのは、仕事を可能な限り早く、効率的に、正確にこなすためです。仕事場所以外でのデジタル技術の進歩によって、利用ということについてエンターテインメントや楽しみのため、といった異なる考え方をもたらしました。さらにインターネットの浸透は、コミュニケーションでの用途も生み出し、今日ではデジタル技術の用途として間違いなく最も重要なものとなっています。
+
+> This broadened understanding of use has had a major impact on interaction design, most notably in the rise of the notion of user experience to capture all manners of non-instrumental, aesthetical, emotional qualities in the human use of a digital thing. However, following on from the heritage of digital things as individual tools, user experience in the literature is mostly an individual construct. Qualities that are essential social or communal in their nature, such as ethical implications and aspects of communication, are as yet somewhat underdeveloped in interaction design. Again, with the development of digital things towards collaborative media, one might expect more interest in this area in the near future.
+
+用途に関する人々の幅広い理解は、インタラクションデザインに大きなインパクトをもたらしました。その中でも特に重要なのは、ユーザーエクスペリエンスという概念の台頭で、これは利便性のためだけで無く、デジタルな物を使用する際に人が感じる美的感覚的品質をとらえたものです。しかし、個人の道具として始まったデジタル技術の側面を引きずって、ユーザーエクスペリエンスは個人的な概念であると語られがちです。社会的・共同体的な側面で重要な品質、たとえば倫理的な意味合いやコミュニケーションの側面は未だ、インタラクションデザインにおいては発展途上です。コラボレーションメディアとしてデジタル技術を開発する上で、近い将来この領域にもっと注目がなされるべきです。
+
+> To conclude, interaction design can be understood as shaping digital things for people’s use. The practice of interaction design is knowledge-intensive and multidisciplinary at heart. The chapters of this encyclopedia provide much of the relevant knowledge that forms the basis for interaction design practice as well as its scholarship.
+
+締めくくりに、インタラクションデザインとは、人が利用するためにデジタルな物を形作ること、と解釈できます。インタラクションデザインの実践は、核心において、地の集積的で多くの学問の集積であります。このエンサイクロペディアの各章で、インタラクションデザインを形作る基本的な知識が提供されることでしょう。
+
+
+
+##1.4 さらに学ぶために
+
+> To me, the most approachable book-length introduction to interaction design is Designing for interaction: Creating innovative applications and devices by Dan Saffer (New Riders, 2nd ed., 2009).
+ 
+> Following on from that, Sketching the user experience: Getting the design right and the right design by Bill Buxton (Morgan Kaufmann, 2007) offers a very useful treatment of what a designerly approach to the digital materials means and what its implications are in the contemporary ICT industry.
+
+最も手に取りやすい、インタラクションデザインのイントロダクションは Dan Saffer著「Designing for Interaction:  Creating innovative applications and devices」(New Riders, 2nd ed., 2009) (邦題[「インタラクションデザインの教科書」](http://www.amazon.co.jp/dp/4839922381)ソシオメディア株式会社、2008)です。
+
+それに次いで読むべきは、Bill Buxton著「Sketching the user experience: Getting the design right and the right design」(Morgan Kaufmann, 2007)で、デジタルな素材へのデザイン的アプローチがどういったことなのか、を丁寧に説明し、昨今のICT産業においての実践も示してくれます。
+
+> Compared to other design fields, interaction design largely lacks a sense of a historical canon of products, concepts and designers. This is where Designing interactions by Bill Moggridge (MIT Press, 2007) comes in. It is an admirable first step towards establishing the much-needed discourse of the interaction design canon, and has a lot to offer for someone learning the field.
+
+> The book Thoughtful interaction design: A design perspective on information technology by myself and Erik Stolterman (MIT Press, 2004) introduces a number of concepts for thinking about interaction design processes, skills and practices.
+
+他のデザイン業界と比べると、インタラクションデザインはデザイナーにとって模範となる歴史的な商品やコンセプトがとても不足しています。そんなとき、Bill Moggridge 著「Designing interactions」(MIT Press, 2007)が役に立ちます。 インタラクションデザインについての談義を成立させる上ですばらしい第一歩となりますし、この領域を学ぶために様々な提案をしてくれます。
+
+私と Erik Stolterman の著作である「Thoughtful interaction design: A design perspective on information technology」(MIT Press, 2004)は、インタラクションデザインのプロセスや、スキル、また実践について考えるための様々な概念を紹介しています。
+
+> A more extensive annotated bibliography of books pertinent to interaction design can be found at http://www.librarything.com/catalog/jonas.lowgren
+
+> The most significant professional network for interaction design is the Interaction Design Association (IXDA), which engages several thousands of interaction designers worldwide. The website at www.ixda.org offers several resources for professional learning and development, including a lively discussion forum. They also organize an annual international conference called Interaction.
+
+より多くのインタラクション関連書籍については、[http://www.librarything.com/catalog/jonas.lowgren](http://www.librarything.com/catalog/jonas.lowgren)をご覧下さい。
+
+プロフェッショナルのインタラクションデザインにおけるネットワークとして、Interaction Design Association (IXDA)があり、世界中から何千名ものデザイナーが参加しています。[ウェブサイト](http://www.ixda.org)では、ライブディスカッションフォーラムなどを含む、プロのための学習や開発のためのリソースを提供しています。またIXDAは年に一回の「Interaction」という国際大会も主催しています。
+
+> Academic research in interaction design is somewhat scattered across venues. The premiere international conference on human-computer interaction is called CHI and is organized annually by ACM since the early 1980s. Its proceedings contain quite a lot of quality interaction-design research, as well as other work that is not as designerly in terms of approach and significance. The ACM also runs a smaller biannual conference called DIS (Designing Interactive Systems) that is more closely limited to interaction design. Moreover, there is a whole range of conferences in related fields where the interaction design student can find relevant material, such as Ubicomp and DPPI (Designing Pleasurable Products and Interfaces).
+
+インタラクションデザインの学術研究は、あちこちに分散しています。ヒューマンコンピュータインタラクションに関する初の国際学会はCHIと呼ばれ、ACMによって1980年代初頭から毎年開催されています。予稿集には非常に多くの質の高いインタラクションデザインに関する研究が収められています。ACMはまた、DIS(Designing Interactive Systems) と言う隔年の小さめの学会も主催しており、よりインタラクションデザインに焦点を絞っています。それ以外にも、UbicompやDPPI (Designing Pleasurable Products and Interfaces)といった、インタラクションデザインに関わる学生が関連の知識を入手できる様々な学会が開かれております。
+
+> The academic field of HCI has a broad range of archival journals, where interaction-design research is occasionally published. Examples include Human-Computer Interaction, ACM Transactions on Computer-Human Interaction and ACM Computers in Entertainment. Finally, the magazine called interactions from ACM publishes many interaction-design related articles that aim to address professional as well as academic audiences.
+
+HCIに関する学術領域には多岐にわたるジャーナルがあり、インタラクションデザインに関する研究も時折出版されています。ACMはCHIに関するものと、エンターテインメント用途のコンピュータに関する快方を出版しています。また、ACMはプロと学術的な読者向けにインタラクションデザインに関する記事を集めた "interactions" という冊子も出版しています。
+
+> The field of design research in general has less of an academic heritage than the field of HCI, and it comes as no surprise that its selection of academic literature is more limited. A notable exception is the International Journal of Design, which has quickly reached a respectable level of academic quality and which publishes interaction-design articles occasionally. Other journals that might be interesting for students of interaction design are Design Issues and Digital Creativity.
+
+一般的にみて、デザインリサーチ領域は、HCIに比べてあまり学術的な歴史がありません。従って、アカデミックな文書が限られているのも不思議ではありません。しかし「International Journal of Design」は例外で、はやくも学術的にも高いレベルに達しつつあります。この冊子も時折インタラクションデザインに関する記事を出しています。「Design Issues」と「Digital Creativity」も、インタラクションデザインを専攻する学生にはおもしろいと思います。
