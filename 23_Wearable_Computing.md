@@ -104,4 +104,12 @@ Figure 23.7: aremac初期のブレッドボード回路.
 
 Figure 23.5でユーザ(男性)はaremacを用いてミルクの買い物をしていますが，もちろんこれは車や家などのもっと重要な買い物にも使用できます．たとえば，遠く離れた場所にいるユーザの妻が，リビングに置かれたスクリーンを使って，ユーザのカメラに写った映像を見ます．彼女(妻)がレーザーポインタでスクリーンを指すと，システムがポインタの位置をトラッキングして遠隔ユーザのaremacを操作します．すると，彼(ユーザ)は彼女がスクリーンに書いた内容を見ることができます．この直接書くという行為こそが，ユーザの体験している"リアリティ"をよく表しているといえるでしょう．
 
-(to be continued...)
+> In another application, the wearer can use hand gestures to control the wearable computer. The author referred to this system as “Synthetic Synesthesia of the Sixth Sense”, and it is often called “SixthSense” for short.
+
+他にも，ユーザの手のジェスチャによりデバイスを操作するアプリがあります．著者はこのシステムについて"第６感の共起"と述べていますが，一般には略して"第６感"と呼ばれます．
+
+> This wearable computer system was used as a teaching example at University of Toronto, where hundreds of students were taught how to build the system, including the vector-graphics laser-based infinite depth-of-field projector, using surplus components obtained at low cost. The system cost approximately $75 for each student to build (not including the computer). The software and circuit board design for this system was distributed to students under an Open Source licence, and the circuit board itself was designed using Open Source computer programs (PCB, kicad, etc.), see Mann 2001b.
+
+このウェアラブルコンピュータシステムはトロント大の教材として使われており，何百人もの学生が，安く手に入れた余り物の資材を使ってシステムの作り方(被写界深度が無限大のレーザープロジェクタを使ったベクタグラフィックスの表示の仕方なども含む)を学びました．このシステムは(コンピュータを除けば)生徒一人あたり約75ドルほどで組み上げることができます．ソフトウェアと回路基板のデザインは，オープンソースライセンスのもとで学生に配布されており，回路基盤自体は(PCB, kicadなどの)オープンソースプログラムを使って設計されたものです．(参考：Mann 2001b)
+
+
