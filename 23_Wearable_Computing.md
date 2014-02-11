@@ -139,5 +139,29 @@ Video 23.2
 
 Figure 23.8 A-B: 視覚情報を複雑化せず，簡略化した例．このような"Diminished Reality"は，目の不自由な人々の助けになる．
 
+### 23.4.3 例 3: Mediated Reality(間接現実)
+> Another concrete example is Mediated Reality. Whereas the Augmented Reality system shown above can only add to "reality", the Mediated Reality systems can augment, deliberately diminish, or otherwise enhance or modify visual reality beyond what is possible with Augmented Reality. Thus mediated reality is a proper superset of augmented reality.
+
+別の具体例としては，Mediated Realityがあげられます．前述したAugmented Reality(拡張現実感)システムが単に"現実感"を付加するだけなのに対し，Mediated Realityシステムは，拡張や削減，あるいは強調や変更など，Augmented Realityにより実現できることを超えたさまざまなことができます．そのため，Mediated Realityは厳密にはAugmented Realityの上位概念であるといえます．
+
+> Mediated Reality refers to a general framework for artificial modification of human perception by way of devices for augmenting, deliberately diminishing, and more generally, for otherwise altering sensory input. A simple example is electric eyeglasses (www.eyetap.org) in which the eyeglass prescription is downloaded wirelessly, and can be updated continuously in a way that's subject-matter specific or task-specific.
+
+Mediated Realityは，人間の知覚を人工的に変更(デバイスを用いて拡張したり，意図的に削ったり，もっと一般的にはセンサ入力と置き換えたり)するための一般的な手法に言及しています．シンプルな例としては電子めがね(www.eyetap.org)があり，これはめがねの説明や設定が無線でダウンロードされたり，対象物体やタスクに応じて設定が自動的にアップデートできたりします．
+
+> These electric eyeglasses also allow the wearers to reconfigure their vision into different spectral bands. For example, infrared eyeglasses allow us to see where people have recently stood on the ground (where the ground is still warm) or which cars in a parking lot recently arrived (because the engine is still warm). One can see how well the insulation in a building is doing, by observing where heat is leaking out of the building. A roofer can see where a roof membrane may be problematic, or where heat is leaking out of a building. Moreover, during roof repair, one can see the molten asphalt, and get a good sense of whether or not it is at the right temperature.
+
+この電子めがねは，ユーザの視界を異なる波長で再構成したりもできます．たとえば，赤外めがねであれば，ついさっきまで人が立っていた場所(地面があたたかくなっている)が見てわかったり，どの車が駐車場に入ってきたばかり(エンジンがあたたかい)なのかを見て知ることができます．あるいは，ビルから漏れ出て行く熱の量を見れば，ビルの断熱性能がどのくらいかもわかります．屋根職人が屋根のどの部分に問題があるかを知ったり，どこから熱が逃げてしまっているかを知ることができます．さらには，屋根の修理中に用いる溶けたアスファルトを見れば，それが修理に適した正しい温度になっているかを見極めることもできます．
+
+> The electric eyeglasses can allow us to see in different spectral bands while actually repairing a roof, thus forming a closed feedback look, as an example of Humanistic Intelligence. See Figure 23.8 A-B.
+
+この電子めがねは，実際に屋根を直しているときに異なる波長の映像を見られることから，人工知能の一例としての"閉じたフィードバックループ"が形成できているといえます．図23.8 A-B(と書いてあるが本当は23.9では？)を参照してください．
+
+![Courtesy of Steve Mann. Copyright status: Unknown (pending investigation). See section "Exceptions" in the copyright terms below. Download or view full resolution (2048 x 1536 pixels. 597 KB)](http://www.interaction-design.org/images/encyclopedia/wearable_computing/Diminished_Reality_as_opposed_to_augmented_reality_illustrationTwoOnARow.jpg)
+![Courtesy of Steve Mann. Copyright status: Unknown (pending investigation). See section "Exceptions" in the copyright terms below. Download or view full resolution (595 x 511 pixels. 98 KB)](http://www.interaction-design.org/images/encyclopedia/wearable_computing/thermal_eyetap_illustrationTwoOnARow.jpg)
+
+
+> Figure 23.9 A-B: A (at left): Author (looking down at the mop he is holding) wearing a thermal EyeTap wearable computer system for seeing heat. This device modified the author's visual perception of the world, and also allowed others to communicate with the author by modifying his visual perception. A bucket of 500 degree asphalt is present in the foreground. B (at right): Thermal EyeTap principle of operation: Rays of thermal energy that would otherwise pass through the center of projection of the eye (EYE) are diverted by a specially made 45 degree "hot mirror" (DIVERTER) that reflects heat, into a heat sensor. This effectively locates the heat sensor at the center of projection of the eye (EYETAP POINT). A computer controlled light synthesizer (AREMAC) is controlled by a wearable computer to reconstruct rays of heat as rays of visible light that are each collinear with the corresponding ray of heat. The principal point on the diverter is equidistant to the center of the iris of the eye and the center of projection of the sensor (HEAT SENSOR). (This distance, denoted "d", is called the eyetap distance.) The light synthesizer (AREMAC) is also used to draw on the wearer's retina, under computer program control, to facilitate communication with (including annotation by) a remote roofing expert.
+
+図23.9 A-B: A(左図): 著者(下を向いて手に持ったモップを見ている)はEyeTap温度センサーコンピューティングシステムを身につけ，熱を見ています．このデバイスは，著者の視覚を変更し，さらには他者が著者の視覚をいじって変更することによるコミュニケーションも可能にしています．前面にあるのは，500度のアスファルトが入ったバケツです．B(右図): EyeTap温度センサシステムの処理原理: ある場所から目の中心(図中EYE)に入射してきた熱エネルギーの光線が，45°の角度で設置された特別製の"熱ミラー"(図中DIVERTER)によって反射され，熱センサに入力されます．このシステムは，熱センサの位置が目の中央(図中EYE TAP POINT)と対応するように効果的に配置されています．コンピュータ制御による光線シンセサイザ(AREMACのこと)は，ウェアラブルコンピュータによって制御され，熱エネルギーの光線をそれぞれ対応した光として再構成します．熱ミラーの中心は，瞳孔の中心と熱センサ(図中HEAT SENSOR)の投影中心から等しい距離にあります．("d"で表されたこの距離は，"eyetap distance"と呼ばれています．)光線シンセサイザ(AREMAC)も，コンピュータプログラムにより制御されて装着者の網膜に映像を出すのに使われ，遠隔地にいる屋根修理のエキスパートとのコミュニケーションを(注意書きなどのやりとりにより)円滑にします．
 
 
