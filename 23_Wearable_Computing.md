@@ -112,4 +112,32 @@ Figure 23.5でユーザ(男性)はaremacを用いてミルクの買い物をし�
 
 このウェアラブルコンピュータシステムはトロント大の教材として使われており，何百人もの学生が，安く手に入れた余り物の資材を使ってシステムの作り方(被写界深度が無限大のレーザープロジェクタを使ったベクタグラフィックスの表示の仕方なども含む)を学びました．このシステムは(コンピュータを除けば)生徒一人あたり約75ドルほどで組み上げることができます．ソフトウェアと回路基板のデザインは，オープンソースライセンスのもとで学生に配布されており，回路基盤自体は(PCB, kicadなどの)オープンソースプログラムを使って設計されたものです．(参考：Mann 2001b)
 
+### 23.4.2 例2 : Diminished Reality (現実感の削減)
+> While the goal of Augmented Reality is to augment reality, an Augmented Reality system often accomplishes quite the opposite. For example, Augmented Reality often adds to the confusion of an already confusing existence, adding extra clutter to an already cluttered world. There seems to be a fine line between Augmented Reality and information overload.
+
+上記ARの目的は"現実感の拡張，増幅"ですが，ものによっては全く逆の効果を果たすことがあります．たとえば，実物がすでにわかりにくいのにARでさらによくわからないものを追加してしまったり，ごちゃごちゃしたシーンをさらにごちゃごちゃさせてしまったりします．良いARと"情報過多"は紙一重ということなのでしょう．
+
+> Sometimes there are situations where it is appropriate to remove or diminish clutter. For example, the electric eyeglasses (www.eyetap.org) can assist the visually impaired by simplifying rather than complexifying visual input. To do this, visual reality can be re-drawn as a high-contrast cartoon-like world where lines and edges are made more bold and crisp and clear, thus being visible to a person with limited vision.
+
+シーンによっては，散らかったものを取り除いたり削減したりしたほうが適切な場合もあります．たとえば，"the electric eyeglasses - 電子めがね"(www.eyetap.org)は視覚情報を複雑にするのではなくシンプルにすることで，目の不自由な人々の手助けをします．そのため，現実の視覚情報は，目の不自由な人にも見やすいように高コントラストのアニメ風描写(線や輪郭をより太くはっきりとした描写)にされたりします．
+
+> Another situation in which diminished reality makes sense is dealing with advertising. Our world is increasingly being cluttered with advertising and visual detritus. The electric eyeglasses can filter out unwanted advertising, and reclaim that visual space for useful information. Unwanted advertising, seen once, is inserted into a killfile (e.g. a file of particular ads that are to be reclaimed). For example, if the user is a non-smoker, he or she may decide to put certain cigarette ads into the killfile, so that when subsequently seen, they are removed. That space can then be overwritten with useful data. The following videos show examples:
+
+Diminished Realityが効果を発揮するもうひとつのケースに，広告に対する処理があります．私たちの暮らす世界は，広告などによってますます煩雑になっています．電子めがねの利用により，このような望まない広告をフィルタリングし，役立つ情報を表示するためのスペースを取り戻すことができます．望まない広告は，一度目にした際に"killfile"(視界から取り除きたい広告をまとめたリストファイル)に登録され，視界から取り除かれます．そしてその広告が占めていたスペースは，役立つデータによって上書きされます．以下のビデオがその例です．
+
+![Courtesy of Steve Mann. Copyright: CC-Att-ND (Creative Commons Attribution-NoDerivs 3.0 Unported). View full screen or download (24 MB)](http://www.interaction-design.org/tv/f8aWEWtGKxM.jpg)
+
+Video 23.1: (Steve Mann の好意により掲載．)
+
+![Copyright © Jan Herling and Wolfgang Broll. All Rights Reserved. Reproduced with permission. See section "Exceptions" in the copyright terms below. View full screen or download (896 KB)](http://www.interaction-design.org/tv/oXXwq9MGSwA.jpg)
+
+Video 23.2
+
+
+![Courtesy of US Senate. Copyright: pd (Public Domain (information that is common property and contains no original authorship)). Download or view full resolution (437 x 583 pixels. 73 KB)](http://www.interaction-design.org/images/encyclopedia/wearable_computing/Barack_Obama_1_illustrationTwoOnARow.jpg)
+![Courtesy of US Senate (derivative work). Copyright: pd (Public Domain (information that is common property and contains no original authorship)). Download or view full resolution (439 x 585 pixels. 89 KB)](http://www.interaction-design.org/images/encyclopedia/wearable_computing/Barack_Obama_diminished_reality_illustrationTwoOnARow.jpg)
+
+Figure 23.8 A-B: 視覚情報を複雑化せず，簡略化した例．このような"Diminished Reality"は，目の不自由な人々の助けになる．
+
+
 
